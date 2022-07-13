@@ -1,0 +1,823 @@
+Package: com.nan.aential
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Filename: debs/com.nan.aential_0.1.0_iphoneos-arm.deb
+Size: 1743288
+MD5sum: 60d878211fc646978c82bc887680b7ca
+SHA1: ff016f1852e3c8c9c7c060b23752263def206f90
+SHA256: 3544113d675b75385bd603d554dcaae062d9f30f0bb7c5c3edbe5a1dec0fbe3c
+Section: Themes
+Description: 基于 Sential 修改的主题
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/com.nan.theme/aential/image.png
+Name: Aential
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.theme/aential/js.json
+
+Package: com.nan.alwaysdefaultbash
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: bash
+Replaces: bash, dash
+Filename: debs/com.nan.alwaysdefaultbash_0.1.2_iphoneos-arm.deb
+Size: 1036
+MD5sum: 1c6ab83f2f4702a667932653fdf3e205
+SHA1: 36e0ae7f307252b722e8d6e9a11214cb253da0b1
+SHA256: ed39e8a4cb1a5886059a615a8b781d55d20a63c276c57344969d845976a481da
+Section: Terminal_Support
+Description: 将 sh 指向 bash
+Author: zhaonan <Invalidunit@icloud.com>
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fix.png
+Name: Always Default Bash
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.alwaysdefaultbash/js.json
+
+Package: com.nan.bioprotectxs.zh-hans
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: net.limneos.bioprotectxs
+Replaces: net.limneos.bioprotectxs
+Filename: debs/com.nan.bioprotectxs.zh-hans_0.1.0_iphoneos-arm.deb
+Size: 4596
+MD5sum: 3d0a38fa0fa6b8b697991016ca9961e7
+SHA1: 70ba695cf7e8b43a867830f6a09d4e137afede18
+SHA256: f671df7161966f762ea924c2c864dafd179ea96b0e17ee5afb847ac59896a37e
+Section: Localization
+Description: 为 BioProtect XS 提供简体中文
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/net.limneos.bioprotectxs/image.png
+Name: zh-Hans for BioProtect XS
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/net.limneos.bioprotectxs/js.json
+
+Package: com.nan.ccah
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 14.0)
+Depends: plutil | com.bingner.plutil
+Conflicts: com.nan.sccbav
+Filename: debs/com.nan.ccah_0.1.1_iphoneos-arm.deb
+Size: 1244
+MD5sum: fe53d27aab4b7cb40e1a8b3a74f0b41f
+SHA1: 1ab8ac1f7a84ec02e2167e0bae4daf589856b352
+SHA256: 2f122db9e85c29b96a0e894f0b76fd5bffb1dfc1fd1db9682b16919a7b7325f2
+Section: System
+Description: 将 iOS14 控制中心横屏时，亮度和音量的高度的占用 3 格改回占用 2 格，安装后未激活越狱也生效
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fix.png
+Name: Change CC Auto Height
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.ccah/js.json
+
+Package: com.nan.cy+cpu.arm64
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Conflicts: cy+cpu.arm64
+Provides: cy+cpu.arm64
+Filename: debs/com.nan.cy+cpu.arm64_0.1.0_iphoneos-arm.deb
+Size: 828
+MD5sum: 3bb45d7dfc9c08720c01fb9fdc8af430
+SHA1: a26886c2d94545b8bc7465303c034f77e0cdea7d
+SHA256: e7d72e1fd251eeb44772f01b443aeee7a7a0fc2903e08123e2131f2d7bbda509
+Section: System
+Description: 虚拟依赖，用于解决 Chimera 环境下的 cy+cpu.arm64 虚拟依赖报错问题
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fix.png
+Name: cy+cpu.arm64
+
+Package: com.nan.cydown.zh-hans
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.julioverne.cydown
+Replaces: com.julioverne.cydown
+Filename: debs/com.nan.cydown.zh-hans_0.1.0_iphoneos-arm.deb
+Size: 5292
+MD5sum: 251ba71d9bd0d59e6814897e8afda2b8
+SHA1: c09a8918f9fbba7053e0a20f6081228007d5e772
+SHA256: 32fd0d357ab9e84e580cd3463f683e85df684c9138c2f31ddcb1c098362b8739
+Section: Localization
+Description: 为 CyDown 提供简体中文
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.julioverne.cydown/image.png
+Name: zh-Hans for CyDown
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.julioverne.cydown/js.json
+
+Package: com.nan.darkshot.zh-Hans
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: xyz.skitty.darkshot
+Filename: debs/com.nan.darkshot.zh-Hans_0.1.0_iphoneos-arm.deb
+Size: 1540
+MD5sum: 0d4498adf302426ec492a945410a67d7
+SHA1: fa87e72e059603c4158b2313c46f6962ea001510
+SHA256: eefa047b75dccfc1ba873f28ce1457a0fbb4a8c026a232ec65b5bffdbe2ecc37
+Section: Localization
+Description: 为 DarkShot 提供简体中文
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/xyz.skitty.darkshot/image.png
+Name: zh-Hans for DarkShot
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/xyz.skitty.darkshot/js.json
+
+Package: com.nan.disablelowpoweralerts
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 9.0)
+Depends: plutil | com.bingner.plutil
+Filename: debs/com.nan.disablelowpoweralerts_0.1.0_iphoneos-arm.deb
+Size: 1124
+MD5sum: 6f17fcb4990bef86023cca265549190b
+SHA1: 22dbda9623a43463d3c57e2d5ba883dee5dfd174
+SHA256: f6317a9ffc523a8e75de6ed263222c0fb8483ed44a7afcf2dcb0461b1fddf7e0
+Section: System
+Description: 禁用低电量弹窗
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fix.png
+Name: Disable LowPower Alerts
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.disablelowpoweralerts/js.json
+
+Package: com.nan.disablesblockaftercrash
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 7.0)
+Depends: plutil | com.bingner.plutil
+Filename: debs/com.nan.disablesblockaftercrash_0.1.0_iphoneos-arm.deb
+Size: 1160
+MD5sum: 0c565a064bb8e3e30e334354310c109c
+SHA1: 93d42d2fd9996541213d6aa83f5e607a801ffbcd
+SHA256: dd62e67772ca6207fa112f1753db6a38073c72295d3f45e156e5b867b9592614
+Section: System
+Description: 禁用 SpringBoard 崩溃后自动锁定的策略
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fix.png
+Name: Disable SB Lock After Crash
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.disablesblockaftercrash/js.json
+
+Package: com.nan.dpkg-fill
+Version: 0.2.4
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: bash
+Depends: firmware (>=11.0), sed, coreutils
+Filename: debs/com.nan.dpkg-fill_0.2.4_iphoneos-arm.deb
+Size: 1904
+MD5sum: 98c036342979bfc1538652e8eb97ea0b
+SHA1: a57156ae679a1acdd758c583fc12161cfbff4a8a
+SHA256: 56b1f0b67d33d80de3c31a04c481bea3f6865087fa585b5c516a2580c75b6e02
+Section: Terminal_Support
+Description: 修补因缺少维护者和描述的报错信息
+Author: zhaonan <Invalidunit@icloud.com>
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_terminal.png
+Name: dpkg-fill
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.dpkg-fill/js.json
+
+Package: com.nan.dpkg-fill-triggers
+Version: 0.1.0-b6
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: bash, gawk, com.nan.dpkg-fill
+Filename: debs/com.nan.dpkg-fill-triggers_0.1.0-b6_iphoneos-arm.deb
+Size: 1120
+MD5sum: e77d4372b8a8b59c2780a7b893bc9c82
+SHA1: ac847115fc6a01b13dae912f3cbbf1b50afc9b43
+SHA256: a52171a7e0b9465e8ecb2e62581735496aa148a1af4e5411d3224384f989a322
+Section: Addons
+Description: 一个自动触发器，可以在插件安装时被触发，释放一个不受控制的脚本执行 dpkg-fill
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fix.png
+Name: dpkg-fill triggers
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.dpkg-fill/js_triggers.json
+
+Package: com.nan.enableknownnetworks
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 11.0)
+Depends: plutil | com.bingner.plutil
+Filename: debs/com.nan.enableknownnetworks_0.1.0_iphoneos-arm.deb
+Size: 1136
+MD5sum: 194e2d78bf82f9ef451a30509aa529d7
+SHA1: a739989515557c6787a3e5f39425a5442272f717
+SHA256: 91c93de567ef833bf70ae7980be2c5fe3c3a7dee22c874e04f42ab1db4e96c2a
+Section: System
+Description: 启用自带 Wi-Fi 下方的已知网络面板
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fix.png
+Name: Enable known networks
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.enableknownnetworks/js.json
+
+Package: com.nan.fonts.zh.haipaiqiangdiaoqingxia
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts
+Filename: debs/com.nan.fonts.zh.haipaiqiangdiaoqingxia_0.1.0_iphoneos-arm.deb
+Size: 6411932
+MD5sum: 5d461095abce9296dc1eeb343eead83a
+SHA1: 70eb187dce5ed016a5686a917d08d99342b6dc13
+SHA256: 43793d6990cb81f0e33cc6ba065050f8d64e700faca74e7702d5c6bac5a90bd6
+Section: Fonts
+Description: 感谢字由心雨分享的海派腔调清夏
+Author: 字由心雨
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: 海派腔调清夏-中文
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.fonts/haipaiqiangdiaoqingxia/js_zh.json
+Sponsor: zhaonan
+
+Package: com.nan.fonts.zh.mamelon
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts
+Filename: debs/com.nan.fonts.zh.mamelon_0.1.0_iphoneos-arm.deb
+Size: 9398588
+MD5sum: f6e23adeec316e372eebb46a5bceac95
+SHA1: 752d90a5c42334903f16fc7d2765e7931f21b3d6
+SHA256: beda89c7ed50dc602538e58e76cccf030e3975e40dd252057c77e71dea9943dd
+Section: Fonts
+Description: 感谢字由心雨分享的 マメロン
+Author: 字由心雨
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: マメロン-中文
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.fonts/mamelon/js_zh.json
+
+Package: com.nan.fonts.zh.weibei
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts
+Filename: debs/com.nan.fonts.zh.weibei_0.1.0_iphoneos-arm.deb
+Size: 19665576
+MD5sum: cef59f881861bef1d4f4324a5385b911
+SHA1: 03693431ff33b4184ae8f14942b05165f2710b5a
+SHA256: d4ec161aebfd6e4d90ca5d61f56c17ed2e69973c130eac7f7ed5ee801b087b74
+Section: Fonts
+Description: 感谢宁静之雨分享的魏碑
+Author: 宁静之雨
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: 魏碑-中文
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.fonts/weibei_js_zh.json
+Sponsor: zhaonan
+
+Package: com.nan.fonts.zh.xindixiawucha
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts
+Filename: debs/com.nan.fonts.zh.xindixiawucha_0.1.0_iphoneos-arm.deb
+Size: 14438788
+MD5sum: 7a9f32e68c98c1a3c3e4f2776e0bcaa1
+SHA1: 0488739d7f728d3386ed7177b02d04fee4e9c307
+SHA256: 8a698fa30c730ef85885a2a0c5b962fac464870e3cae4e2d4847e9c69cbaf3b7
+Section: Fonts
+Description: 感谢字由心雨分享的新蒂下午茶
+Author: 字由心雨
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: 新蒂下午茶-中文
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.fonts/xindixiawucha/js_zh.json
+Sponsor: zhaonan
+
+Package: com.nan.fonts11.en.haipaiqiangdiaoqingxia
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts, firmware (>=11.0), firmware (<<12.0)
+Filename: debs/com.nan.fonts11.en.haipaiqiangdiaoqingxia_0.1.0_iphoneos-arm.deb
+Size: 2296580
+MD5sum: 03d7be332fafe360a60feb309662ae26
+SHA1: 70fd5a3ef534ec58f841c53be84903dadea0f37d
+SHA256: 256d3fb4c5640b79b39e1cfa0a68c214f438b1bdcaca43870fd7a38d0713e625
+Section: Fonts (iOS11)
+Description: 感谢字由心雨分享的海派腔调清夏
+Author: 字由心雨
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: 海派腔调清夏-英文-11
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.fonts/haipaiqiangdiaoqingxia/js_en.json
+Sponsor: zhaonan
+
+Package: com.nan.fonts11.en.mamelon
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts, firmware (>=11.0), firmware (<<12.0)
+Filename: debs/com.nan.fonts11.en.mamelon_0.1.0_iphoneos-arm.deb
+Size: 2323980
+MD5sum: 96456e5fac5a36beddd84f5fd663cf18
+SHA1: f72f4cfa477ad2fe59db7440f08410e3dc4fb721
+SHA256: 429fa6ea03d1284a84d994fbfa67d8fc24d2300cd55b70c19de3fa2218220834
+Section: Fonts (iOS11)
+Description: 感谢字由心语分享的 マメロン
+Author: 字由心雨
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: マメロン-英文-11
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.fonts/mamelon/js_en.json
+Sponsor: zhaonan
+
+Package: com.nan.fonts11.en.xindixiawucha
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts, firmware (>=11.0), firmware (<<12.0)
+Filename: debs/com.nan.fonts11.en.xindixiawucha_0.1.0_iphoneos-arm.deb
+Size: 2325964
+MD5sum: da766874f76dddd407d9e8977c7fe3ef
+SHA1: e428ea1889c026400fca7059dae3c3232936310b
+SHA256: a72d460906a2b9703b780146940a34cab977ad8dd92fa895e527722081097945
+Section: Fonts (iOS11)
+Description: 感谢字由心雨分享的新蒂下午茶
+Author: 字由心雨
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: 新蒂下午茶-英文-11
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.fonts/xindixiawucha/js_en.json
+Sponsor: zhaonan
+
+Package: com.nan.fonts12.en.haipaiqiangdiaoqingxia
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts, firmware (>=12.0), firmware (<<13.0)
+Filename: debs/com.nan.fonts12.en.haipaiqiangdiaoqingxia_0.1.0_iphoneos-arm.deb
+Size: 2296688
+MD5sum: 2d680344874c618a1914dedfef3bd011
+SHA1: d6d1f8a9cf96eee6d7eb8d070f77f594239d98b9
+SHA256: 5e33f212b0dc7e5cc2d07f3653a808070ef80a155785a6cd3ef4e7dc2885db3a
+Section: Fonts (iOS12)
+Description: 感谢字由心雨分享的海派腔调清夏
+Author: 字由心雨
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: 海派腔调清夏-英文-12
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.fonts/haipaiqiangdiaoqingxia/js_en.json
+Sponsor: zhaonan
+
+Package: com.nan.fonts12.en.mamelon
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts, firmware (>=12.0), firmware (<<13.0)
+Filename: debs/com.nan.fonts12.en.mamelon_0.1.0_iphoneos-arm.deb
+Size: 2338728
+MD5sum: fc11487776e0fdd518d2a46142653289
+SHA1: 629343144cbd2e6ed452e6223f2cc4502f93b95d
+SHA256: 4e495170f6e4ea54cd0de64bb3d71d84b6241a83e47b738afd9c4fc02f894be3
+Section: Fonts (iOS12)
+Description: 感谢字由心语分享的 マメロン
+Author: 字由心雨
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: マメロン-英文-12
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.fonts/mamelon/js_en.json
+Sponsor: zhaonan
+
+Package: com.nan.fonts12.en.xindixiawucha
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts , firmware (>=12.0), firmware (<<13.0)
+Filename: debs/com.nan.fonts12.en.xindixiawucha_0.1.0_iphoneos-arm.deb
+Size: 2325780
+MD5sum: b240325ca252b7bd42b9833c18fb75de
+SHA1: 0f2c91b5a62653daca35193d39dedff9b2bd6f24
+SHA256: b07468ec347217a613e23a91ad5d8867c4006eefe3d06b7333dbbbb0a54279aa
+Section: Fonts (iOS12)
+Description: 感谢字由心雨分享的新蒂下午茶
+Author: 字由心雨
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: 新蒂下午茶-英文-12
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.fonts/xindixiawucha/js_en.json
+Sponsor: zhaonan
+
+Package: com.nan.fonts13.en.haipaiqiangdiaoqingxia
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts, firmware (>=13.0), firmware (<<14.0)
+Filename: debs/com.nan.fonts13.en.haipaiqiangdiaoqingxia_0.1.0_iphoneos-arm.deb
+Size: 2123316
+MD5sum: 03a1fb99982918c69a43647386180e7a
+SHA1: b287d07122c2ab8056cc6ee67a677aa6530017a3
+SHA256: 30eb285f88f3f101c45e1bf30653114dd7a99384418311a00dd067d427f852a7
+Section: Fonts (iOS13)
+Description: 感谢字由心雨分享的海派腔调清夏
+Author: 字由心雨
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: 海派腔调清夏-英文-13
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.fonts/haipaiqiangdiaoqingxia/js_en.json
+Sponsor: zhaonan
+
+Package: com.nan.fonts13.en.mamelon
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts, firmware (>=13.0), firmware (<<14.0)
+Filename: debs/com.nan.fonts13.en.mamelon_0.1.0_iphoneos-arm.deb
+Size: 2179768
+MD5sum: 9d95df8a5246db5296d6fa9b2a9a2d80
+SHA1: 48249b52efa07972b3fa4722c738d0d3f8e43d7d
+SHA256: 179d851d9aa62ce243c58d05e2f8ac9fb130f8aa08b1da02cf9bcc3453a4999b
+Section: Fonts (iOS13)
+Description: 感谢字由心语分享的 マメロン
+Author: 字由心雨
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: マメロン-英文-13
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.fonts/mamelon/js_en.json
+Sponsor: zhaonan
+
+Package: com.nan.fonts13.en.xindixiawucha
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts, firmware (>=13.0), firmware (<<14.0)
+Filename: debs/com.nan.fonts13.en.xindixiawucha_0.1.0_iphoneos-arm.deb
+Size: 2195168
+MD5sum: e840c9f7d8492abc7a7cede23a692168
+SHA1: f85729eb9042928e3d9e08aafe104b0a44f32863
+SHA256: 6727c14db8829a0b86552195f5c52eaa32587e8000f741573243cb6ef58e33bc
+Section: Fonts (iOS13)
+Description: 感谢字由心雨分享的新蒂下午茶
+Author: 字由心雨
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: 新蒂下午茶-英文-13
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.fonts/xindixiawucha/js_en.json
+Sponsor: zhaonan
+
+Package: com.nan.fonts14.en.mamelon
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts, firmware (>=14.0), firmware (<<15.0)
+Filename: debs/com.nan.fonts14.en.mamelon_0.1.0_iphoneos-arm.deb
+Size: 2910400
+MD5sum: 8211f0ad9eee6a013b0ec42346ddcdfa
+SHA1: eb9e3ee4bf7d726ac4f307d4c6b5fcc4906dcee7
+SHA256: 04dd2c6a9c13a5dbbf30b83f4c5059258170b46a7b580c34be21d3fefefb49bd
+Section: Fonts (iOS14)
+Description: 感谢字由心语分享的 マメロン
+Author: 字由心雨
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: マメロン-英文-14
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.fonts/mamelon/js_en.json
+Sponsor: zhaonan
+
+Package: com.nan.fonts14.en.xindixiawucha
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.nan.resetfonts, firmware (>=14.0), firmware (<<15.0)
+Filename: debs/com.nan.fonts14.en.xindixiawucha_0.1.0_iphoneos-arm.deb
+Size: 2909804
+MD5sum: f7abf9f32be5f036c76c55c2e04767d6
+SHA1: e31e97162522f42b3b5e7b2c35d963dc2716da36
+SHA256: 5b59f1c9b23a01ac3f04cd2a7feda28294f81bd6955a14224f17f7cc829f9e33
+Section: Fonts (iOS14)
+Description: 感谢字由心雨分享的新蒂下午茶
+Author: 字由心雨
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fonts.png
+Name: 新蒂下午茶-英文-14
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.fonts/xindixiawucha/js_en.json
+Sponsor: zhaonan
+
+Package: com.nan.ft
+Version: 0.4.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
+Depends: firmware (>=10.3), rsync, diskdev-cmds
+Filename: debs/com.nan.ft_0.4.1_iphoneos-arm.deb
+Size: 2832
+MD5sum: 7b5c6a76f6740575df625ce567941e92
+SHA1: aa8356f544f9423bec7ed0745ab660bcd24d3dfc
+SHA256: 93b54e5174f44174b35f0c3d7be35a25854631311e273c9c60503dcc22427087
+Section: Terminal_Support
+Description: 一个从设备首张快照提取字体的脚本
+Tag: role::hacker
+Author: zhaonan <Invalidunit@icloud.com>
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_terminal.png
+Name: ft
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.ft/js.json
+
+Package: com.nan.ft
+Version: 0.4.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
+Depends: firmware (>=10.3), rsync, diskdev-cmds
+Filename: debs/com.nan.ft_0.4.2_iphoneos-arm.deb
+Size: 2284
+MD5sum: a84214912f4f6a2df79e1b5d8587350e
+SHA1: 086691d14c29d0a1299a64c1631583bbcb80ebb3
+SHA256: 9be8eae8cb9750beab84135f41a37d589227c4cd14f376643452db429f7b3443
+Section: Terminal_Support
+Description: 一个从设备首张快照提取字体的脚本
+Tag: role::hacker
+Author: zhaonan <Invalidunit@icloud.com>
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_terminal.png
+Name: ft
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.ft/js.json
+
+Package: com.nan.hsaol
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
+Depends: firmware (<< 13.0), firmware (<< 11.0) | com.nan.openccmm
+Filename: debs/com.nan.hsaol_0.1.0_iphoneos-arm.deb
+Size: 1316
+MD5sum: 6b94c8078333f0c1abe0e88201b56a3c
+SHA1: e70016b2f100f2fb9bd707269553aeafaff08945
+SHA256: 1661278601d5ae5779906823f855656d051f70c857d3dc3151aa726496387c0a
+Section: System
+Description: 在 iPhone上应用 iPad 设置，修改侧边开关为锁定屏幕旋转
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fix.png
+Name: Hardware Switch As Orientation Lock
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.hsaol/js.json
+
+Package: com.nan.issupervised
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: firmware (>= 11.0)
+Conflicts: com.ichitaso.spenabler
+Provides: com.ichitaso.spenabler
+Filename: debs/com.nan.issupervised_0.1.0_iphoneos-arm.deb
+Size: 1184
+MD5sum: af97e7aa810eda1abfbb13629390e62b
+SHA1: 89ead7d309ae4a6a4f5e73f4ef18521f332fb2b0
+SHA256: a33e1e5107af994a71a55b6320180b9e7ba8b85c91524f318ed61cb66ba6752b
+Section: System
+Description: 启用监督模式，主要用于配合描述文件，升级到部分无法通过 iTunes 升级的系统
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fix.png
+Name: Is Supervised
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.issupervised/js.json
+
+Package: com.nan.libhooker-configurator.zh-Hans
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: org.coolstar.libhooker-configurator
+Replaces: org.coolstar.libhooker-configurator
+Filename: debs/com.nan.libhooker-configurator.zh-Hans_0.1.2_iphoneos-arm.deb
+Size: 1756
+MD5sum: 392bc86af1965583249eaa2739db309e
+SHA1: 784ad3fd8b4f5967df710fc82f43b8e35324cc44
+SHA256: 7964664b7b58f2b2e7e9d6d64ec85cb002bf89d377d5ba72b9c4d616b742a883
+Section: Localization
+Description: 为 libhooker configurator 提供简体中文
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/org.coolstar.libhooker-configurator/image.png
+Name: zh-Hans for libhooker-configurator
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/org.coolstar.libhooker-configurator/js.json
+
+Package: com.nan.little11.zh-Hans
+Version: 0.1.6
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.ryannair05.little11
+Replaces: com.ryannair05.little11
+Filename: debs/com.nan.little11.zh-Hans_0.1.6_iphoneos-arm.deb
+Size: 2876
+MD5sum: 6734d370e151f4b855a4670aaafb0aca
+SHA1: 333db8517019b861c43cad5e31f22dc6c41bf46d
+SHA256: c92e59aea9f9963b4f116ce160cab66a9f6dfe8d433546d454dc854da8033298
+Section: Localization
+Description: 为 Little11 提供简体中文
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.ryannair05.little11/image.png
+Name: zh-Hans for Little11
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.ryannair05.little11/js.json
+
+Package: com.nan.little12.zh-Hans
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.ryannair05.little12
+Replaces: com.ryannair05.little12
+Filename: debs/com.nan.little12.zh-Hans_0.1.1_iphoneos-arm.deb
+Size: 2324
+MD5sum: c2282bf5aebd36c86e9f0c9b27426f4b
+SHA1: 2ef16b55402b2e27d1e68431e54b7b83f82775ee
+SHA256: c2e0b53eed3b1e5ba1f8856b5832399df82c70e4499e94735c488c477fb768a7
+Section: Localization
+Description: 为 Little12 提供简体中文
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.ryannair05.little12/image.png
+Name: zh-Hans for Little12
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.ryannair05.little12/js.json
+
+Package: com.nan.localhostssh
+Version: 0.2.6
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: sed, openssh-server | openssh
+Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
+Filename: debs/com.nan.localhostssh_0.2.6_iphoneos-arm.deb
+Size: 1952
+MD5sum: 56d463053c3f9d1fa553f684cd135717
+SHA1: 29815f08922b9dad5f048b5e182319506b604b4a
+SHA256: 2be2b94115d0c91c2604cb5a183fcc41df26d7d8a20d48b546dc775bcab83b6b
+Section: Addons
+Description: 仅为 iOS 本地 SSH 访问启用 2222 端口
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/com.nan.localhostssh/image.png
+Name: Local SSH
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.localhostssh/js.json
+
+Package: com.nan.mobileicons3x
+Version: 0.14.3
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Filename: debs/com.nan.mobileicons3x_0.14.3_iphoneos-arm.deb
+Size: 92644
+MD5sum: e5f93f8f1258a1449aaaf01685e94f8d
+SHA1: 00d97299f1d40031dc43678054802193ef28bf10
+SHA256: 6f77d66d01721f31eaf9c1630e945b2da1deb2f1e1881771f6bfb155e43ffacc
+Section: System
+Description: 为没有 3x 蒙板的设备补全，提取自 8p 14.3，安装后即可卸载。
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fix.png
+Name: MobileIcons3x
+
+Package: com.nan.openccmm
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 11.0)
+Depends: plutil | com.bingner.plutil
+Filename: debs/com.nan.openccmm_0.1.3_iphoneos-arm.deb
+Size: 1140
+MD5sum: a142333dbff6c12645eee3a2e119fe6b
+SHA1: 28c3daf7e8ec5fc6db13f1dd2a96cf688be85f05
+SHA256: d6da99b8cf2292723809faf4c4523edb9e275127eca651688b5cd2d9f5e22a77
+Section: System
+Description: 激活原生 iPhone 控制中心静音模块，安装后未激活越狱也生效
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/com.nan.openccmm/image.png
+Name: Activation CC MuteModule
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.openccmm/js.json
+
+Package: com.nan.playing.zh-hans
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: dev.hyper.playing
+Replaces: dev.hyper.playing
+Filename: debs/com.nan.playing.zh-hans_0.1.0_iphoneos-arm.deb
+Size: 1968
+MD5sum: df80f5c9d8fa7c5203ff72611faa9ca1
+SHA1: bf876a524c4cf76b95ab57de5cb4e1e87d6cffcc
+SHA256: 8d1d34db3bd86a4f132dc5f8ddc87cbd34950554209e26c4ecf243a62f35c18d
+Section: Localization
+Description: 为 Playing 提供简体中文
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/dev.hyper.playing/image.png
+Name: zh-Hans for Playing
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/dev.hyper.playing/js.json
+
+Package: com.nan.pulloverpro.zh-Hans
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.c1d3r.pulloverpro
+Replaces: com.c1d3r.pulloverpro
+Filename: debs/com.nan.pulloverpro.zh-Hans_0.1.1_iphoneos-arm.deb
+Size: 1952
+MD5sum: e7fc327c18de6f27c639e869cd372003
+SHA1: d3f61c9c51283e6b8a57981d185b795b1aca6fd8
+SHA256: de2c407e90c089769b201905eab356564af5c9326beb14d45e1d005b807b0925
+Section: Localization
+Description: 为 PullOver Pro 提供简体中文
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.c1d3r.pulloverpro/image.png
+Name: zh-Hans for PullOver Pro
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.c1d3r.pulloverpro/js.json
+
+Package: com.nan.resetfonts
+Version: 0.1.4
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: com.nan.ft, zsh
+Filename: debs/com.nan.resetfonts_0.1.4_iphoneos-arm.deb
+Size: 1236
+MD5sum: 1bb3e5b429928d81203a95ebe0478c4a
+SHA1: 7b2ca31886f0df3bbd385f2d5f2ee76eb40e2120
+SHA256: 07f5b9bca588b8919c0782bc3fa6122e1e4a66942f105e7812707a2d44bb82f9
+Section: System
+Description: 安装卸载都会还原一次字体
+Author: zhaonan <Invalidunit@icloud.com>
+Icon: https://invalidunit.github.io/repo/Depictions/com.nan.resetfonts/image.png
+Name: reset fonts
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.resetfonts/js.json
+
+Package: com.nan.sccbav
+Version: 0.1.3
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 11.0)
+Depends: plutil | com.bingner.plutil
+Conflicts: com.nan.ccah
+Filename: debs/com.nan.sccbav_0.1.3_iphoneos-arm.deb
+Size: 1376
+MD5sum: 7329af36a4effef9fcfe7e6771e2e0e5
+SHA1: 9028af1785b8e6bc7bec2f614190214275019191
+SHA256: 0e793171190b75d5d592806fbd18cc09fb6e0d2c20fa7202e519c6960af04945
+Section: System
+Description: 将 iOS 控制中心的亮度和音量的高度占用改为 1 格，安装后未激活越狱也生效
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fix.png
+Name: Small CC Brightness and Volume
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.sccbav/js.json
+
+Package: com.nan.sentinel.zh-hans
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.megadev.sentinel
+Replaces: com.megadev.sentinel
+Filename: debs/com.nan.sentinel.zh-hans_0.1.2_iphoneos-arm.deb
+Size: 1560
+MD5sum: 7c531075716b03db93dd9665ac924c8c
+SHA1: e12e6cd5a8ea0974ca2cb7cd5d408be64a928255
+SHA256: cb4f09191fd7913e25986e53b5b26e0b3fb5a473d5bf797a5444c40316598d8d
+Section: Localization
+Description: 为 Sentinel 提供简体中文
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.megadev.sentinel/image.png
+Name: zh-Hans for Sentinel
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.megadev.sentinel/js.json
+
+Package: com.nan.sileo.zh-Hans
+Version: 0.4.1
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: org.coolstar.sileo | org.coolstar.sileobeta
+Replaces: org.coolstar.sileo, org.coolstar.sileobeta
+Filename: debs/com.nan.sileo.zh-Hans_0.4.1_iphoneos-arm.deb
+Size: 7920
+MD5sum: 3b7131de1ff4698f324b389a8f9bf591
+SHA1: 72da336955378f6f9ea5a898a6f9a477a8dcb291
+SHA256: a2ee80affe77036bcbc94df4c78887e8ee23312494e8719d5faf5b4aa47e05b6
+Section: Localization
+Description: 为 Sileo 提供简体中文
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/org.coolstar.sileo/image.png
+Name: zh-Hans for Sileo
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/org.coolstar.sileo/js.json
+
+Package: com.nan.smallccairplay
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 11.0)
+Depends: plutil | com.bingner.plutil
+Filename: debs/com.nan.smallccairplay_0.1.0_iphoneos-arm.deb
+Size: 1156
+MD5sum: 3f511aeadaf327caba1ea46814d7cb3b
+SHA1: 44f98626a5f7ee2fcef999081d4518b7f57fae3e
+SHA256: cece0a6bd1818fc987d03cde855edd5619722cfe0a81545726582a3be1e50d3a
+Section: System
+Description: 缩小控制中心的 AirPlay 模块，安装后未激活越狱也生效
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fix.png
+Name: Small CC AirPlay
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.smallccairplay/js.json
+
+Package: com.nan.snap
+Version: 0.3.5
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 10.3), sed, shell-cmds, diskdev-cmds | firmware-sbin
+Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
+Filename: debs/com.nan.snap_0.3.5_iphoneos-arm.deb
+Size: 3520
+MD5sum: 261dc23412120ee5d1f6e32229351320
+SHA1: f2b4941d663c3348113527e72db7da3a9cd3e3d6
+SHA256: 01c912785b4cc32755d0cb9961d0d69e25238db7b3dd4c9ab6a5aec9d6d008bc
+Section: Terminal_Support
+Description: 更便捷的快照管理
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_terminal.png
+Name: snap
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.snap/js.json
+
+Package: com.nan.swipeextenderx.zh-hans
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: zhaonan
+Depends: com.qiop1379.swipeextenderx
+Replaces: com.qiop1379.swipeextenderx
+Filename: debs/com.nan.swipeextenderx.zh-hans_0.1.0_iphoneos-arm.deb
+Size: 3328
+MD5sum: ce9c7165101b2dfbe27ef5db3e477d1d
+SHA1: 58f8048d6d8cbc1f2eec0d79f5e46e75a35b5a2a
+SHA256: 52a3bb0a7964118365fcfeae36a8ffe775050c7ae1ba3aa2842124168c2f5219
+Section: Localization
+Description: 为 SwipeExtenderX 提供简体中文
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.qiop1379.swipeextenderx/image.png
+Name: zh-Hans for SwipeExtenderX
+Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.zh-Hans/com.qiop1379.swipeextenderx/js.json
+

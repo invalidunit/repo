@@ -1,0 +1,25 @@
+{
+ "class": "FeaturedBannersView",
+ "itemSize": "{263, 148}",
+ "itemCornerRadius": 10,
+ "banners": [
+  {
+   "url": "https://invalidunit.github.io/repo/Depictions/Default/top_0.png",
+   "title": "Local SSH",
+   "package": "com.nan.localhostssh",
+   "hideShadow": false
+  },
+  {
+   "url": "https://invalidunit.github.io/repo/Depictions/com.nan.theme/aential/top.png",
+   "title": "Aential",
+   "package": "com.nan.aential",
+   "hideShadow": false
+  },
+  {
+   "url": "https://invalidunit.github.io/repo/Depictions/com.nan.openccmm/top.png",
+   "title": "Mute Module",
+   "package": "com.nan.openccmm",
+   "hideShadow": false
+  }
+ ]
+}
