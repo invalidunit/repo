@@ -70,16 +70,16 @@ Name: Change CC Auto Height
 Sileodepiction: https://invalidunit.github.io/repo/Depictions/com.nan.ccah/js.json
 
 Package: com.nan.chang-taurine-permanent
-Version: 0.1.0
+Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: taurine-permanent, plutil | com.bingner.plutil
-Filename: debs/com.nan.chang-taurine-permanent_0.1.0_iphoneos-arm.deb
-Size: 994
-MD5sum: 078e6c4e87f1749e546f163d6a1fceca
-SHA1: 711b4d46d9a96f88cbfcab991631619e0e214568
-SHA256: 20b8095444a0e74b8dd41004b126cab6159ea0e0bb813d4f21d1ac609aec581b
-Section: Utilities
+Filename: debs/com.nan.chang-taurine-permanent_0.1.1_iphoneos-arm.deb
+Size: 1024
+MD5sum: 1962159a54e77768226212af43c41c76
+SHA1: 148450478e0ad3967e473b2abe5da9e6badddbbe
+SHA256: 0acdeda63e7031b629fab87b3476fbd30c226e5a35bace79f121d4bb91bdaed1
+Section: Localization
 Description: 将 taurine-permanent 的 Identifier 加上 -permanent 来防止冲突
 Author: zhaonan
 Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fix.png
