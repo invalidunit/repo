@@ -5,3 +5,4 @@ Suite: stable
 Version: 1.0
 Architectures: iphoneos-arm64
 Components: main
+Icon: file://SileoIcon.png
