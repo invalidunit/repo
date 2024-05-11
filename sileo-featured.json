@@ -4,7 +4,7 @@
   "itemCornerRadius":10,
   "banners": [
     {
-        "url": "http://tsangbaby.github.io/Alisa.png",
+        "url": "https://raw.githubusercontent.com/Tsangbaby/Tsangbaby.github.io/main/Alisa.png",
         "title": "",
         "package": "",
         "hideShadow": true
