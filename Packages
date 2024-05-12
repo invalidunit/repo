@@ -35,3 +35,20 @@ Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
+Package: dr.erast.witcher
+Version: 1.0.0-285+debug
+Architecture: iphoneos-arm64
+Maintainer: Erast <applewormdev@gmail.com>
+Installed-Size: 548
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/dr.erast.witcher_1.0.0-285+debug_iphoneos-arm64.deb
+Size: 48058
+MD5sum: 4d094854f97036528f36be5106207b91
+SHA1: 71cd4ccb95ba01b62fbe65d40657f5776ff31478
+SHA256: c733ee2528e99fd4ed36e24e9a5b7b3b6785b88fca3bbabcf072fc3660ad6f28
+Section: Tweaks
+Description: Some description
+Author: Erast <applewormdev@gmail.com>
+Dev: Erast
+Name: Witcher
+
