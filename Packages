@@ -52,6 +52,25 @@ Author: Erast <applewormdev@gmail.com>
 Dev: Erast
 Name: Witcher
 
+Package: netskao.BlockAppsCreateAlbum-rootless
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 19660
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: netskao.BlockAppsCreateAlbum-rootless
+Replaces: netskao.BlockAppsCreateAlbum-rootless
+Provides: netskao.BlockAppsCreateAlbum-rootless
+Filename: debs/netskao.BlockAppsCreateAlbum-rootless_1.1.2_iphoneos-arm64.deb
+Size: 4492
+MD5sum: c526726b17a138f12aa7326637d1a96b
+SHA1: 984d36bf3113ac3fc5fe200c4068942fa0816261
+SHA256: b1d2d1422cabd948df35fe861eed0dda7905e512ecb1c1ace66937ad8832d837
+Section: Netskao-Tweaks
+Description: 阻止应用程序创建自己的相册
+Author: Netskao
+Name: BlockAppsCreateAlbum-Rootless
+
 Package: netskao.lowpowerbannertips-rootless
 Version: 1.1-3
 Architecture: iphoneos-arm64
