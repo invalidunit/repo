@@ -52,3 +52,19 @@ Author: Erast <applewormdev@gmail.com>
 Dev: Erast
 Name: Witcher
 
+Package: netskao.lowpowerbannertips-rootless
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 200
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/LowPowerBannerTips-Rootless.1.1-3.deb
+Size: 14568
+MD5sum: 6dee9874b932b9293001eb3a4a30641d
+SHA1: 87c50e751734c26f92a4da9caf4d1da065835707
+SHA256: dedf2a2645ca6bb744808482587d2845bc08401eedb42f41f36999d488ec64be
+Section: Netskao-Tweaks
+Description: 将低电量弹窗改为横幅提示样式
+Author: Netskao
+Name: LowPowerBannerTips-Rootless
+
