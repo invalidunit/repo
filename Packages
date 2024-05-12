@@ -1,21 +1,3 @@
-Package: com.ikilledappl3.autofolderclose-rootless
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: michaelmelita1
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: debs/com.ikilledappl3.autofolderclose-rootless_1.1_iphoneos-arm64.deb
-Size: 3302
-MD5sum: 8fe5ac45af861cb328f7f06e3c269827
-SHA1: ae5d3478b667b1fefbd86aec25d726640c21c43a
-SHA256: 43848a0646ec5cc2a0a71bb5be9d4bae5fb3e009d618c54a4919951e7c8efe0a
-Section: Tweaks
-Description: Closes your folder when you launch an application.
-Author: iKilledAppl3
-Depiction: https://michaelmelita1.github.io/depictions/?p=com.ikilledappl3.autofolderclose
-Name: AutoFolderClose
-Sileodepiction: https://michaelmelita1.github.io/sileodepictions/com.ikilledappl3.autofolderclose/info.json
-
 Package: com.qiop1379.swipeextenderx
 Version: 1.6.2
 Architecture: iphoneos-arm64
