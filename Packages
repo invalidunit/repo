@@ -58,6 +58,23 @@ Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
+Package: dev.traurige.batterybuddy
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 432
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.batterybuddy
+Filename: debs/dev.traurige.batterybuddy_1.3.5_iphoneos-arm64.deb
+Size: 37604
+MD5sum: fa3e2d45d091aacdc66b44b47a50b744
+SHA1: d09bdaadf4261625ff3295a0bcb25371976d59d4
+SHA256: cea8011dad5fd1ca482a89d34a08e6aed67b711eae7a009a23c18ce3e3c7fdd0
+Section: Tweaks
+Description: Battery indicator, but cute
+Author: Traurige & neilsardesai <hello@traurige.dev>
+Name: BatteryBuddy
+
 Package: dr.erast.witcher
 Version: 1.0.0-285+debug
 Architecture: iphoneos-arm64
