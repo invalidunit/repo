@@ -1,3 +1,26 @@
+Package: com.cydiageek.ermete
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 386
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Filename: debs/com.cydiageek.ermete_1.0.5_iphoneos-arm64.deb
+Size: 44264
+MD5sum: 0dcd0f61064bdb6b16f9e39996d3b399
+SHA1: 28cf1ccb8b387cfdda786d7e3229998b1596fc9d
+SHA256: 56ff9a78f202e4a78ec9e47a37a83dbe54979ec5a7fab1c6dbc89858fd094914
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ermeteDp
+Description: Adjustable Speed Effects opening/closing Apps/Switcher!
+Tag: purpose::extension
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ermeteDp
+Dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/Ermete.bundle/icon@2x.png
+Name: Ermete
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.ikilledappl3.autofolderclose-rootless
 Version: 1.1
 Architecture: iphoneos-arm64
