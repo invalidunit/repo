@@ -127,3 +127,23 @@ Description: 将低电量弹窗改为横幅提示样式
 Author: Netskao
 Name: LowPowerBannerTips-Rootless
 
+Package: zp.cocoatop64.unject
+Version: 3.1.1
+Architecture: iphoneos-arm64
+Maintainer: zp, SXX, Domo
+Installed-Size: 504
+Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
+Filename: debs/zp.cocoatop64.unject_3.1.1_iphoneos-arm64.deb
+Size: 142716
+MD5sum: 8e012acfca974c72a521ecf590f66636
+SHA1: 374148250844a928b99009853fd1f66aefc24462
+SHA256: f1e69cc9a34c91fe28c199d43cb9d625b88ea4abe80990ee2d75d7ed2ed3622a
+Section: Utilities
+Description: 备份自用，增加快速指南选项汉化和界面美化。Process Viewer for iOS GUI,适配rootless并增加一些小功能.
+ - 1.长按图标的插件针对APP更友好
+ - 2.此app更适合屏蔽进程类的注入
+ - 3.laileld要加的copy给加上(如果是/开头,使用filza打开)
+Author: Domo, SXX , zp
+Name: CocoaTop64.zp
+Sileodepiction: https://rootless.zqbb.cf/web/zp.cocoatop64.unject
+
