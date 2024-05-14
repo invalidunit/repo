@@ -58,6 +58,22 @@ Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
+Package: com.randy420.swiftgrampatch
+Version: 4.2.0
+Architecture: iphoneos-arm64
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Installed-Size: 1500
+Depends: mobilesubstrate
+Filename: debs/com.randy420.swiftgrampatch_4.2.0_iphoneos-arm64.deb
+Size: 379710
+MD5sum: 3d46cef5dae2db4f77fc2b83979d570f
+SHA1: dd3facb4b7b0716c7e41c9020769c435b8a4d675
+SHA256: fbda6ad71b14faf94ffce00e75de76113c345b812b3c3ce25f43a698f4df34a5
+Section: Tweaks
+Description: ***Made using Flex To Theos updated by: Randy420***
+Author: Randy420 <randy.skinner@hotmail.com>
+Name: Swiftgram Patch
+
 Package: dev.traurige.batterybuddy
 Version: 1.3.5
 Architecture: iphoneos-arm64
