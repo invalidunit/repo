@@ -1,3 +1,3 @@
-# Tsangbaby's Sileo Repository
+# Tsangbaby's Repository
 
-This is a self-use software source
+This is a Self-use Software Source
