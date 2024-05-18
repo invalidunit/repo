@@ -1,20 +1,3 @@
-Package: com.25mao.miyou.rootless
-Version: 3.7-8
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: debs/com.25mao.miyou.rootless_3.7-8_iphoneos-arm64.deb
-Size: 13929590
-MD5sum: 9c0a786973d683fdd8b173f2f0e41572
-SHA1: f04c6f7c079db7ad7a10b5f23c162fbca42a26c9
-SHA256: a42e6463e6795f428066453a3781019fe7b7f69c92168121a0aef6e2defafa62
-Section: Rootless
-Priority: optional
-Description: 微信助手-Rootless版
-Author: Mao
-Name: 微信助手-Rootless
-Sponsor: admin@25mao.com
-
 Package: com.cydiageek.ermete
 Version: 1.0.5
 Architecture: iphoneos-arm64
