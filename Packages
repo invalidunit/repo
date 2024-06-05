@@ -1,3 +1,19 @@
+Package: com.ash.fixrepairsystempower
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: ash
+Depends: mobilesubstrate
+Filename: debs/com.ash.fixrepairsystempower_0.0.1_iphoneos-arm64.deb
+Size: 4588
+MD5sum: a36a2197ba3f2042f256a7e273f5a371
+SHA1: 1403632c33424af118174f2c860bd51b97349991
+SHA256: 892ce07a5bfdbaa2d259c78054f1fa78fda2680c40007cb7d22f8f4f4e957334
+Section: Tweaks
+Description: CPU Battery Saver Battery Connected State Not Change Remove Monitored Regions Don't Use Background Location Services No Update WiFi State Remove Pretending To Search In Telephony Manager No Has Results From Wifi Scan Disable Wifi Charger Queue Has Cellular Telephony Private Location Apps Not Using Location With Details Remove Animations Remove Animations Fake Service If Unnecessary Don't Scan For Updates Remove Check Time Zone Time Zone (Fixed) AdBlock - Block Some iAds No Automatic Sync Hidden iAds Device
+Author: ash
+Name: Fix Repair System Power
+Sponsor: ash
+
 Package: com.cydiageek.ermete
 Version: 1.0.5
 Architecture: iphoneos-arm64
