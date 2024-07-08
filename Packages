@@ -74,22 +74,6 @@ Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
-Package: com.randy420.swiftgrampatch
-Version: 4.2.0
-Architecture: iphoneos-arm64
-Maintainer: Randy420 <randy.skinner@hotmail.com>
-Installed-Size: 1500
-Depends: mobilesubstrate
-Filename: debs/com.randy420.swiftgrampatch_4.2.0_iphoneos-arm64.deb
-Size: 379710
-MD5sum: 3d46cef5dae2db4f77fc2b83979d570f
-SHA1: dd3facb4b7b0716c7e41c9020769c435b8a4d675
-SHA256: fbda6ad71b14faf94ffce00e75de76113c345b812b3c3ce25f43a698f4df34a5
-Section: Tweaks
-Description: ***Made using Flex To Theos updated by: Randy420***
-Author: Randy420 <randy.skinner@hotmail.com>
-Name: Swiftgram Patch
-
 Package: dev.traurige.batterybuddy
 Version: 1.3.5
 Architecture: iphoneos-arm64
@@ -106,24 +90,6 @@ Section: Tweaks
 Description: Battery indicator, but cute
 Author: Traurige & neilsardesai <hello@traurige.dev>
 Name: BatteryBuddy
-
-Package: dr.erast.witcher
-Version: 0.0.3~alpha
-Architecture: iphoneos-arm64
-Maintainer: Erast <applewormdev@gmail.com>
-Installed-Size: 4128
-Depends: mobilesubstrate, firmware (>= 13.0), firmware (<= 15.6.1)
-Filename: debs/dr.erast.witcher_0.0.3.alpha_iphoneos-arm64.deb
-Size: 1231818
-MD5sum: af250ce2c1769af08b236d078fa734c4
-SHA1: 91bcb768e7b6ce21957ce380cb7fed7ccfe729b5
-SHA256: bfd67586a28139dd141d4aed924b429b800a8928be20790947fafcb18718c48e
-Section: Tweaks
-Description: Magical iOS App Switcher
-Author: Erast <applewormdev@gmail.com>
-Dev: Erast
-Icon: file:///var/jb/Library/PreferenceBundles/WitcherPreferences.bundle/icon_compressed.png
-Name: Witcher
 
 Package: jp.r-plus.anykeytrackpad
 Version: 1.1.1
