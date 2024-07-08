@@ -108,6 +108,27 @@ Author: r_plus
 Icon: file:///Library/PreferenceLoader/Preferences/AnyKeyTrackpad@2x.png
 Name: AnyKeyTrackpad
 
+Package: jp.r-plus.doublecut
+Version: 0.8
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 348
+Depends: mobilesubstrate, firmware (>= 7.0), preferenceloader
+Filename: debs/jp.r-plus.doublecut_0.8_iphoneos-arm64.deb
+Size: 17762
+MD5sum: 5697a1bf4eff6b7d31dda6bc1719854d
+SHA1: c23cfa40d478f28356e6f1a2ebbbfc11e1b9020a
+SHA256: 105aac71c25e5ee4dd33ecbac93e0d971ea0c1a0663fd02cacd66394e9f16e3b
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doublecutDp
+Description: DoubleTap/TripleTap/LongPress key to insert arbitrary text.
+Tag: purpose::extension
+Author: r_plus <anasthasia.r+doublecut@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=doublecutDp
+Dev: rplus
+Icon: file:///Library/PreferenceBundles/DoubleCutSettings.bundle/DoubleCut@2x.png
+Name: DoubleCut
+
 Package: netskao.BlockAppsCreateAlbum-rootless
 Version: 1.1.2
 Architecture: iphoneos-arm64
