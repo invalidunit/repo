@@ -1,0 +1,60 @@
+name: "bark push"
+
+on:
+  workflow_run:
+    workflows: ["pages-build-deployment"]
+    types: 
+      - completed
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: install jq
+        run: |
+          sudo apt update >>/dev/null
+          sudo apt install jq -y
+
+      - name: install jo
+        run: |
+          sudo apt install gcc git automake autoconf -y
+          git clone 'https://github.com/jpmens/jo.git' '/tmp/jo'
+          echo 'cd /tmp/jo' >>/tmp/jo_install.sh
+          echo 'autoreconf -i' >>/tmp/jo_install.sh
+          echo './configure' >>/tmp/jo_install.sh
+          echo 'make check' >>/tmp/jo_install.sh
+          echo 'make install' >>/tmp/jo_install.sh
+          chmod -R 0755 '/tmp/jo_install.sh'
+          sudo '/tmp/jo_install.sh'
+          
+      - name: download bark_shell
+        run: |
+          sudo curl -L -o '/usr/bin/bark' 'https://raw.githubusercontent.com/invalidunit/bark_shell/main/bark'
+          sudo chmod -R 0755 '/usr/bin/bark'
+
+      - name: push
+        if: success()
+        env:
+          _repo: ${{ github.repository }}
+          _key: ${{ secrets._key }}
+        run: |
+          bark -X POST ${_key} -1 '更新完成' -2 "来自 ${_repo}" -g "${_repo}" -s 'healthnotification' -i 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png'
+          
+      - name: download remove_all_actions
+        run: |
+          sudo curl -L -o '/usr/bin/remove_all_actions' 'https://raw.githubusercontent.com/invalidunit/action/main/remove_all_actions'
+          sudo chmod -R 0755 '/usr/bin/remove_all_actions'
+
+      - name: remove all old actions
+        if: success()
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          remove_all_actions
