@@ -1,0 +1,25 @@
+{
+ "class": "FeaturedBannersView",
+ "itemSize": "{263, 148}",
+ "itemCornerRadius": 10,
+ "banners": [
+  {
+   "url": "https://invalidunit.github.io/sileodepiction/Default/top_0.png",
+   "title": "dpkg-fill",
+   "package": "com.nan.dpkg-fill",
+   "hideShadow": false
+  },
+  {
+   "url": "https://invalidunit.github.io/sileodepiction/Default/top.png",
+   "title": "crc",
+   "package": "com.nan.crc",
+   "hideShadow": false
+  },
+  {
+   "url": "https://invalidunit.github.io/sileodepiction/Default/top.png",
+   "title": "cac",
+   "package": "com.nan.cac",
+   "hideShadow": false
+  }
+ ]
+}
