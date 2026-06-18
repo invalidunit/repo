@@ -1,0 +1,18 @@
+name: "bark push"
+
+on:
+  workflow_run:
+    workflows: ["pages-build-deployment"]
+    types: 
+      - completed
+
+jobs:
+  bark_push:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    uses: invalidunit/action/.github/workflows/bark_push_done.yml@main
+    secrets:
+      _key: ${{ secrets._key }}
+
+  remove_all_old_actions:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    uses: invalidunit/action/.github/workflows/remove_all_actions.yml@main
