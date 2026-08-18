@@ -1,0 +1,2624 @@
+Package: com.nan.16player.zh-hans
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Localization
+Maintainer: zhaonan
+Depends: com.teslaman3092.16player
+Replaces: com.teslaman3092.16player
+Filename: ./debs/iphoneos-arm/com.nan.16player.zh-hans_0.1.0_iphoneos-arm.deb
+Size: 3544
+MD5sum: d1f011b5228b0a88edbb87503f67a4ad
+SHA1: f3a5297b768d46c7206b27304dd1604c081c44cf
+SHA256: 22655459851165cabe81f20ce6d9670aae4a18e07cf668efa6f30669eb227311
+SHA512: 03e4ac109278394404bf6d347d9c1929e5d37f3f9552d2b471555cf08060378c3a33f43d0f08e20f8bef2b0508e6632f189fdc0059efaa52928467e347749461
+Description: 为 16Player 提供简体中文
+Name: zh-Hans for 16Player
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.teslaman3092.16player/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.teslaman3092.16player/image.png
+
+Package: com.nan.16player.zh-hans
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Localization
+Maintainer: zhaonan
+Depends: com.teslaman3092.16player
+Replaces: com.teslaman3092.16player
+Filename: ./debs/iphoneos-arm64/com.nan.16player.zh-hans_0.1.0_iphoneos-arm64.deb
+Size: 3596
+MD5sum: 6f31b83b74d13021b0a99235f3c98991
+SHA1: ccc00d7eac1e869bde94967b6eaffd618b79c5a8
+SHA256: f063eaeea45ecefcba7aa55cad3e3ffc8cfc4eb80654c338a0cf1f40bc9d7718
+SHA512: 930b4fd279efdf26ea728a6e91d5ae4b6a6fb9836d6fdc537cf8c5213008a0ffbfac1e201f292503b5dc0b1dd92041ee6404da3d4a7d659467d91dc66346ee64
+Description: 为 16Player 提供简体中文
+Name: zh-Hans for 16Player
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.teslaman3092.16player/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.teslaman3092.16player/image.png
+
+Package: com.nan.16player.zh-hans
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Localization
+Maintainer: zhaonan
+Depends: com.teslaman3092.16player
+Replaces: com.teslaman3092.16player
+Filename: ./debs/iphoneos-arm64e/com.nan.16player.zh-hans_0.1.0_iphoneos-arm64e.deb
+Size: 3544
+MD5sum: fd4f7fafa26c69eb424d1761a2252e16
+SHA1: 2fcf5e2aa2f8c708860bf79367509f28ea4212a8
+SHA256: 88ceddf993b97a762d3be8041332c4e0682694f7cae3917b4851734a0d9418bf
+SHA512: cecfd7d97da60814d02bcb074db083d4c369da0404a430d0f9d0adabaa6e3aa83d4e38620adbb2673f6c714e534b7b4a84d65c228371d6cf954a55a0d29fe1e0
+Description: 为 16Player 提供简体中文
+Name: zh-Hans for 16Player
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.teslaman3092.16player/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.teslaman3092.16player/image.png
+
+Package: com.nan.aential
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Themes
+Maintainer: zhaonan
+Filename: ./debs/iphoneos-arm/com.nan.aential_0.1.0_iphoneos-arm.deb
+Size: 1743236
+MD5sum: 5ec5239316828e255cb75532dcbb8393
+SHA1: 30385e69a6682027856a1df4a9933cc6eb32968a
+SHA256: e8c2d536cc057b9353fa9fabacb8ee85a3627d077c546c431aeeaa6881898b3a
+SHA512: 7ef07b31d48ea2b997de13b92b4ae56f466157f45ee2cd657d5932c470d05786fae6dd7d9ada6e3d8348bb69ba56addf05dc3157b1ffb02458c1fe3dfbebdd38
+Description: 基于 Sential 修改的主题
+Name: Aential
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.theme/aential/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.theme/aential/image.png
+
+Package: com.nan.aential
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Themes
+Maintainer: zhaonan
+Filename: ./debs/iphoneos-arm64/com.nan.aential_0.1.0_iphoneos-arm64.deb
+Size: 1743424
+MD5sum: d0e044099fd88172390333332d30c9e0
+SHA1: 651433f8f7df32b51c30e27dbc7094a1dfe26781
+SHA256: 594c770fa33a870a403fd110db652ead122ca3b7bac58351375174d93e02e68f
+SHA512: 73f9e3a6b393e4ed70d7bf1d26b1f0d350e0b6e739d5d6c2c3a5aa198b2f4c6146fb5280c1439368481b7bda1cfe4a4b48502fcc09245bec947603ee612b76be
+Description: 基于 Sential 修改的主题
+Name: Aential
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.theme/aential/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.theme/aential/image.png
+
+Package: com.nan.aential
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Themes
+Maintainer: zhaonan
+Filename: ./debs/iphoneos-arm64e/com.nan.aential_0.1.0_iphoneos-arm64e.deb
+Size: 1743264
+MD5sum: 8aee780bdf3749e33daf9019601843c3
+SHA1: 7a7e43fb2021e10369f2851d2abe55ff353971d5
+SHA256: 5036f17fce4f2ba75b83662d725f51597efbaa48b76ccd4c6d4e2c8f6fec7444
+SHA512: f2e24f099d2a16603e024c0c6944bd8c7dfb0ab668c06164bccbaa54bd68bf7a003d70f91a1d7459b4efb25379346250721bb2252d4ee29076d03310f909190b
+Description: 基于 Sential 修改的主题
+Name: Aential
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.theme/aential/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.theme/aential/image.png
+
+Package: com.nan.allemand
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Terminal_Support
+Maintainer: Evelyn
+Filename: ./debs/iphoneos-arm64/com.nan.allemand_0.1.0_iphoneos-arm64.deb
+Size: 11080
+MD5sum: b26354edb9e80e15be279f94d51b5dc7
+SHA1: 3d46e703fdcaaa6ed56599eb11c089c922247f3f
+SHA256: d5e6e52c04d277608c66f4d706387c5321b4c759a4af675460cd516f4f5500db
+SHA512: 706613c9750d4560c5142bdc2a8dc7b7eedb5b247279250f19435117e06ec6d572a7c003aa4f17cadda8d0cf20bfeba6430584853a7e67092a5e60fa84c417c3
+Description: static oldabi patcher
+Name: Allemand
+Author: Evelyn
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.allemand/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.allemand
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Terminal_Support
+Maintainer: Evelyn
+Filename: ./debs/iphoneos-arm64e/com.nan.allemand_0.1.0_iphoneos-arm64e.deb
+Size: 11064
+MD5sum: c694d4e96989c6a017b03cc22b473a4c
+SHA1: 478062c9bb657ad9bfccf326faf906f8aec71e1a
+SHA256: 4ac0ada330a79d6f8731bdbca66713db117316d6d2362984e30ef9767ffb4769
+SHA512: 6c8bbf8a5cffb6a8f9d204402cf196299189eaee6c39a5c204322d51a7aa78260a6bb9d8353aec0c67096b9a0795d88972a3f5ded070fb15c78487139b2d019e
+Description: static oldabi patcher
+Name: Allemand
+Author: Evelyn
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.allemand/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.allemand-filza-script
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Depends: com.nan.allemand
+Filename: ./debs/iphoneos-arm64/com.nan.allemand-filza-script_0.1.0_iphoneos-arm64.deb
+Size: 1076
+MD5sum: 71cf7e15656973c88152e471650d8e2d
+SHA1: 904a6e6274561e11ec8aaad4649cc11b2e8f0c49
+SHA256: 109d3c4ee9cc3b0535f73f8be7fa6d72180114efbadccc030a5b49256eebe465
+SHA512: 6c4e0f82862bf557a080bc78aacff2e5bc938a802320a6b46817a87301b51760dc06ed7c112a5c37af34940e40fbaaaf8e3702a85d17b76ca29fdc1bdc0d79bc
+Description: 通过 Filza 脚本给旧的 dylib 打补丁，只需选中 dylib 文件然后点击脚本
+Name: FilzaScript Allemand
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.allemand/js_f.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.allemand-filza-script
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Depends: com.nan.allemand
+Filename: ./debs/iphoneos-arm64e/com.nan.allemand-filza-script_0.1.0_iphoneos-arm64e.deb
+Size: 1076
+MD5sum: 4d92c1e896b3a5e2a6b7373e8792e6c7
+SHA1: ad850cacad048b82f91f76f7c60905481ee544a8
+SHA256: 23312b77627bff301601b25b66006343d453aa049a716548070668b936494767
+SHA512: 3c067e45b79ee0e8990fc9d5cfbe92c204ff2d2d1e33a5840286bd181ccc0c1cbd52d7566ee02752910455ebcc88aab16f310b19a6fd8c23ee3be937c3649766
+Description: 通过 Filza 脚本给旧的 dylib 打补丁，只需选中 dylib 文件然后点击脚本
+Name: FilzaScript Allemand
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.allemand/js_f.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.alwaysdefaultbash
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: bash
+Replaces: bash, dash
+Filename: ./debs/iphoneos-arm/com.nan.alwaysdefaultbash_0.1.4_iphoneos-arm.deb
+Size: 1184
+MD5sum: c9e0cfed741c7b26758b74b071bcb757
+SHA1: adc52f910d51fb856e5a5f814e6de8213225e280
+SHA256: 675f5df5b0ecf629e38a4b3796358f232fd4e104ca6c50df5942253800ee2b0e
+SHA512: 84e3693188e19acddae71007a87d66a7a809de767357db1b8b0956a6c9bb0acd07282c01f5f87e2f40f5738dbbebb031c2097e6b0295f70420848b6de20b3c3a
+Description: 将 sh 指向 bash
+Name: Always Default Bash
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.alwaysdefaultbash/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.appindex.zh-hans
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Localization
+Maintainer: zhaonan
+Depends: com.serena.appindex
+Replaces: com.serena.appindex
+Filename: ./debs/iphoneos-arm/com.nan.appindex.zh-hans_0.1.2_iphoneos-arm.deb
+Size: 2780
+MD5sum: 50022bfa13270ae00ec11e32c679e5e6
+SHA1: 1aec7eb3108eacf9dd680c31d59c26ff24bbc6af
+SHA256: b8df98c44ffde1f2339e2cb828ca3fde02e8043411c27765b5637da9fb7610a3
+SHA512: 1ac65b91f20b15a033e98228bbeec8db7ab478e013101ea7677d400b8b88ba26c0e35db6eea782749e7f8ae18f28913c6e1d92385318f07b634f1fff44f869a5
+Description: 为 AppIndex 提供简体中文
+Name: zh-Hans for AppIndex
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.serena.appindex/image.png
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.serena.appindex/js.json
+
+Package: com.nan.appindex.zh-hans
+Architecture: iphoneos-arm64
+Version: 0.1.2
+Section: Localization
+Maintainer: zhaonan
+Depends: com.serena.appindex
+Replaces: com.serena.appindex
+Filename: ./debs/iphoneos-arm64/com.nan.appindex.zh-hans_0.1.2_iphoneos-arm64.deb
+Size: 2804
+MD5sum: eeb6c2b812a25551deb255f69fd78b4e
+SHA1: c77dc8f897ddf5486e245b8fd78ffbbb656583ea
+SHA256: 40f9cfb8dcf37ee3eacd0b4961115623d2a16aeb128551a7879d995aab8db5fe
+SHA512: 6499b2f3eee36770f3e77c6fa32906584f537573f2a4298caa9c5a7c544b99b6eaf6b0a1a962a01a943761413e7e9d55a6a86c4ff9279effa86b4e6d5de13199
+Description: 为 AppIndex 提供简体中文
+Name: zh-Hans for AppIndex
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.serena.appindex/image.png
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.serena.appindex/js.json
+
+Package: com.nan.appindex.zh-hans
+Architecture: iphoneos-arm64e
+Version: 0.1.2
+Section: Localization
+Maintainer: zhaonan
+Depends: com.serena.appindex
+Replaces: com.serena.appindex
+Filename: ./debs/iphoneos-arm64e/com.nan.appindex.zh-hans_0.1.2_iphoneos-arm64e.deb
+Size: 2788
+MD5sum: 75f338ab1cf49d2e03f568068f262939
+SHA1: a6590677e900d21a06b7ff23b5cf6373aaa4f0aa
+SHA256: 028ce34e46c01de47dc4a816896b5e1409d2da58a68ae1607499c19dfaf45396
+SHA512: 74f6cb2d1f731a9a007ba81b80b1c695479c9631c1d61e102abe75882ad2c1934ac5bcee5f80a67ad4af60be05fbf16e6bbbad93b97a7a7e279bb4a11d7d4796
+Description: 为 AppIndex 提供简体中文
+Name: zh-Hans for AppIndex
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.serena.appindex/image.png
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.serena.appindex/js.json
+
+Package: com.nan.bark
+Architecture: iphoneos-arm
+Version: 0.3.2
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: coreutils, sed, shell-cmds, jq, jo, openssl, xxd, curl
+Filename: ./debs/iphoneos-arm/com.nan.bark_0.3.2_iphoneos-arm.deb
+Size: 4176
+MD5sum: d5c678e0d676d307b61e82902b3b4f83
+SHA1: 0bd831894d8335cd47d3ed2e3adfd774496b74ab
+SHA256: 97f7a99c743d2325e845a9a5c95e0006d71167ebd0d9f4e6342b3f556fd9c8aa
+SHA512: 1d43054f272f60e60bf44b86434b7fd235f75d9c3fbb7cdf57a9396de0cd50287445ff0c12e7cb423f948fa54af0ba749563e130a3333c7df63d48df22dae81b
+Description: 用于向 bark 服务器推送自定义消息的 cli 脚本
+Name: bark
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.bark/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.bark/image.png
+
+Package: com.nan.bark
+Architecture: iphoneos-arm64
+Version: 0.3.2
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: coreutils, sed, shell-cmds, jq, jo, openssl, xxd, curl
+Filename: ./debs/iphoneos-arm64/com.nan.bark_0.3.2_iphoneos-arm64.deb
+Size: 4208
+MD5sum: ce322fe68de7baba4ee358b0098a69b7
+SHA1: 66da6b794a7affc0af3a230bf83fb6b0be30a8c8
+SHA256: 502481675bfbfc7f8c36ecb078f9d7cd48e2d6ce9f2d998cbcd48daf12579505
+SHA512: 6ac60549e2a1747a881b517b32e1ae4a482c2ded1cfd378a8d806d81017cb69d56367500078932f9c4c15e84c37076641fb4da24fc492dff3677b865c8e5c924
+Description: 用于向 bark 服务器推送自定义消息的 cli 脚本
+Name: bark
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.bark/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.bark/image.png
+
+Package: com.nan.bark
+Architecture: iphoneos-arm64e
+Version: 0.3.2
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: coreutils, sed, shell-cmds, jq, jo, openssl, xxd, curl
+Filename: ./debs/iphoneos-arm64e/com.nan.bark_0.3.2_iphoneos-arm64e.deb
+Size: 4180
+MD5sum: 3b1d464b87205d0a2ad12bb80dcd63e5
+SHA1: 9446347005ece9ad2e2a466eb7ea917d5d460244
+SHA256: aa6e6d2ab6af6f242a0c513d91ca778465fc19f25121c538e5c73ee9ec068011
+SHA512: 226dca533e33353fef54baccbc339891f8192f081ef5312ad9f6f96c7aa6198c5ee938f65bf2173ca332e1d5013dfdaaeea894c877edefc458db1c2851959240
+Description: 用于向 bark 服务器推送自定义消息的 cli 脚本
+Name: bark
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.bark/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.bark/image.png
+
+Package: com.nan.bindfs
+Architecture: iphoneos-arm64
+Version: 0.6.0
+Section: Terminal_Support
+Maintainer: 无尽伤痛都锁进黑夜 & zhaonan
+Depends: coreutils, sed, plutil, firmware (>> 14.0)
+Conflicts: mobilesubstrate (= 999)
+Filename: ./debs/iphoneos-arm64/com.nan.bindfs_0.6.0_iphoneos-arm64.deb
+Size: 13148
+MD5sum: 54b079b337c68a58f744adbb418ecb03
+SHA1: 27647b76818f56e46de7ac796bc0480514677575
+SHA256: 45a64dc6b4ef30298b01e4a1f74fc30d438d7a4f09e17d840d341870a679ca91
+SHA512: 2f87084fea0008ab128e5e6f97fd0a4b98474b6e9014bd0cefcdaeeee41d8edbd786f78ae7ec500fd8c5dffa96fb1d940d2215ad0cadfe1f6914b2b9925cf9cd
+Description: 以 bindfs 挂载文件夹的 cli 工具
+Name: mount_bindfs (Dopamine)
+Author: 无尽伤痛都锁进黑夜 & zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.bindfs/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.bindfs
+Architecture: iphoneos-arm64e
+Version: 0.6.0
+Section: Terminal_Support
+Maintainer: 无尽伤痛都锁进黑夜 & zhaonan
+Depends: coreutils, sed, plutil, firmware (>> 14.0)
+Conflicts: mobilesubstrate (= 999)
+Filename: ./debs/iphoneos-arm64e/com.nan.bindfs_0.6.0_iphoneos-arm64e.deb
+Size: 13136
+MD5sum: 472ca315563a113ea561dfed0a9cb540
+SHA1: 8462765c0264f7e33dd3d514319783dba4418fe4
+SHA256: 3741205cbdcb1def4ece24284c73c438af6a1c763696139cc187b5cb23230cab
+SHA512: e33cb489e9559fc74ade2e45fbfb3b84d69c3598e7043901ed95094e0af7b50dc821433b43babf3d7285248427c86611a588278eed8e35bd65432e40492d7817
+Description: 以 bindfs 挂载文件夹的 cli 工具
+Name: mount_bindfs (Dopamine)
+Author: 无尽伤痛都锁进黑夜 & zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.bindfs/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.bindfs-xina
+Architecture: iphoneos-arm64
+Version: 0.1.2
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: coreutils, sed, plutil, firmware (>> 14.0), firmware (<< 16.0), mobilesubstrate (= 999)
+Filename: ./debs/iphoneos-arm64/com.nan.bindfs-xina_0.1.2_iphoneos-arm64.deb
+Size: 3300
+MD5sum: 47060f974603621cf06d4db1f029f305
+SHA1: 3e5f77e096bdb27467ec07fc7a58dec7e927d524
+SHA256: 46425c4e85bbba0048b4aa4baf03e8b996ae4b8297ce5fa6687350219eaacd1f
+SHA512: 4e00054413a07c4120f2db29a7e3d578f4ebd638f96f5ff8b054a782003bd14cee78f8c7c054705ade9e776927a270be2c9f62dd42949909fccdbb3644f64aff
+Description: 以 bindfs 挂载文件夹的 cli 工具
+Name: mount_bindfs (xina)
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.bindfs/xina/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.bindfs-xina
+Architecture: iphoneos-arm64e
+Version: 0.1.2
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: unsupport-roothide
+Filename: ./debs/iphoneos-arm64e/com.nan.bindfs-xina_0.1.2_iphoneos-arm64e.deb
+Size: 836
+MD5sum: 744204708bacc20f6885baa5a220748d
+SHA1: 31e616476edc92766600b2164214c6e3cba13c97
+SHA256: e682d4748e37f1a32017bbe35db5d21103ed41c4a83420b69d999e3b5564d182
+SHA512: d2cd7a97cf290eee8f2acc9ba461b46cee3b177b609da9d4838a34b0cf4c69367cf3d3c42ed04de6298a19705071602e74cb86416378f917201f51862fb259dd
+Description: 以 bindfs 挂载文件夹的 cli 工具
+Name: mount_bindfs (xina)
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.bindfs/xina/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.bioprotectxs.zh-hans
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Localization
+Maintainer: zhaonan
+Depends: net.limneos.bioprotectxs
+Replaces: net.limneos.bioprotectxs
+Filename: ./debs/iphoneos-arm/com.nan.bioprotectxs.zh-hans_0.1.0_iphoneos-arm.deb
+Size: 4572
+MD5sum: e4f2095c4ea32508ec5f46af5a771cc8
+SHA1: 131ac68dbee7ce54eddb9d8ff53dbd686492b653
+SHA256: 0bd0ac6f8335acab3ad85eb9391e7c19ebc6f929248c1a2167599d7b612189af
+SHA512: 4d3f22a9ad77659c9e9832dc75a0c8a444b0567df957ef316b292e72ca787224be34c624a5e30f374a6c10301be830b443cb555fbdd479abf7a61b229a67c00f
+Description: 为 BioProtect XS 提供简体中文
+Name: zh-Hans for BioProtect XS
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/net.limneos.bioprotectxs/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/net.limneos.bioprotectxs/image.png
+
+Package: com.nan.bootlogo.checkra1n
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Themes (Bootlogos)
+Maintainer: zhaonan
+Filename: ./debs/iphoneos-arm/com.nan.bootlogo.checkra1n_0.1.2_iphoneos-arm.deb
+Size: 329596
+MD5sum: fc75ea136f64848eb94e0f06e5159437
+SHA1: cc2a7b188917a255160106d6872d3c9145551d66
+SHA256: fa8b1537ab3f5c110ede6ff9551ef46fb6f522a62f909431d8176c5a81f2302e
+SHA512: 6efe066d5f57865559fb8e6e63980f478df5c54298fa96bf6609e6caee806d63c6255a10fad93e8cf099cd08ea064c38c7d3722e0dc8d63af1566df97ebb0d33
+Description: 将启动 Logo 替换为 checkra1n 微标
+Name: checkra1n-Bootlogo
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.bootlogo/checkra1n/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.bootlogo/checkra1n/image.png
+
+Package: com.nan.bootlogo.checkra1n
+Architecture: iphoneos-arm64
+Version: 0.1.3
+Section: Themes (Bootlogos)
+Maintainer: zhaonan
+Filename: ./debs/iphoneos-arm64/com.nan.bootlogo.checkra1n_0.1.3_iphoneos-arm64.deb
+Size: 329872
+MD5sum: 26650ec170513b5184a48ae04bb5716d
+SHA1: 4e9d13b395a44750bc27a9220aeef56e7437e6c8
+SHA256: 7c261ad497b4db234cd3438c0a57e7a7f881532341b5d40ec4046a71101ea156
+SHA512: 9ac033af135de9ce279dc6370b132c50c13cedbb500bb2c32ea946804e4ee40f74b1a21f58d6c1a8d927cd333e951abd3c8c990a7585020ff833a8735505cf01
+Description: 将启动 Logo 替换为 checkra1n 微标，需要先自行挂载
+Name: checkra1n-Bootlogo
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.bootlogo/checkra1n/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.bootlogo/checkra1n/image.png
+
+Package: com.nan.bootlogo.checkra1n
+Architecture: iphoneos-arm64e
+Version: 0.1.3
+Section: Themes (Bootlogos)
+Maintainer: zhaonan
+Filename: ./debs/iphoneos-arm64e/com.nan.bootlogo.checkra1n_0.1.3_iphoneos-arm64e.deb
+Size: 329724
+MD5sum: 937774ede245774ee42e149682e1eece
+SHA1: 906f08b51b45768c3ed91bc19c804761eaa91b96
+SHA256: 4399e053a587da8e146c0d09e83f6c89de38f7ed43816b572642bee39a42481a
+SHA512: 23c438b540778cb0f225cbb2387fd5ba39c081318e1aba1bacca85489ae6edd8a4499ab26e0f0ffce85d5ab391c490b79a8a1c37789efd326b7a5c7436906fd0
+Description: 将启动 Logo 替换为 checkra1n 微标，需要先自行挂载
+Name: checkra1n-Bootlogo
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.bootlogo/checkra1n/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.bootlogo/checkra1n/image.png
+
+Package: com.nan.ccah
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: System
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 14.0)
+Depends: plutil | com.bingner.plutil
+Conflicts: com.nan.sccbav
+Filename: ./debs/iphoneos-arm/com.nan.ccah_0.1.1_iphoneos-arm.deb
+Size: 1300
+MD5sum: 95776c418bf534d0e7cfb0a4cd530704
+SHA1: 66255b72d05b2a1d8941479f0b1d607dfd199863
+SHA256: fd3416b4bec59105a473a16a2df2403677945305e8ec9f0e8f0c6cd121aff7ec
+SHA512: f9d5566e6f7aa28c1b14aa0c03f7a38509b8d10068cd35cb6d4e5f670f5f76fbc64d6b673013b5adc5c586c4d92a00d3264b9be42fcdce1a0fba585d236475d0
+Description: 将 iOS14 控制中心横屏时，亮度和音量的高度的占用 3 格改回占用 2 格，安装后未激活越狱也生效
+Name: Change CC Auto Height
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.ccah/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.ccul
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Filename: ./debs/iphoneos-arm/com.nan.ccul_0.1.0_iphoneos-arm.deb
+Size: 2332
+MD5sum: 2dff223bcd2190cdbf40731cabcc878e
+SHA1: 7c90218df60c86b27f560b6f041525acdd2a1c41
+SHA256: ebdc9a1e228269f177c1925064949e9ce9df6c399e41de7247b9e657647ebd30
+SHA512: 042dc3b6cca251f6fa386660b89a0b0e1ea137b52a8f89ebdcd650b20ad5a050b4d0f4aee829b41c05dd1177e040083a128087251687ac38d58eaa1a3bf4acf8
+Description: 解锁控制中心不可移动模块
+Name: CC Unlock
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.ccul/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.chang-taurine-permanent
+Architecture: iphoneos-arm
+Version: 0.1.3-2
+Section: Utilities
+Maintainer: zhaonan
+Pre-Depends: firmware (>> 13.0), firmware (<< 15.0)
+Depends: taurine-permanent, plutil | com.bingner.plutil
+Filename: ./debs/iphoneos-arm/com.nan.chang-taurine-permanent_0.1.3-2_iphoneos-arm.deb
+Size: 1352
+MD5sum: 64a22f800c61ee81a3e8d55abb29f986
+SHA1: 8d4e4df05af9b9230b51cbf37f3c1fcf2b30f493
+SHA256: 9e630ded189773fe28b009eb462087518124f7fd6a83fe0c4a356d0dd103182f
+SHA512: 1fff41aa088c1687d5340de76ad5f97249b9c0323a93311c2e025e0a02bb2e4a507ae93f6e3817583010200dbd23288ee5d70558c33f4e7e9ac11d77b93dedb3
+Description: 将 taurine-permanent 的 Identifier 加上 -permanent 来防止冲突
+Name: chang taurine-permanent
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.chang-taurine-permanent/js.json
+
+Package: com.nan.choicy.zh-hans
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Localization
+Maintainer: zhaonan
+Depends: com.opa334.choicy
+Replaces: com.opa334.choicy
+Filename: ./debs/iphoneos-arm/com.nan.choicy.zh-hans_0.1.1_iphoneos-arm.deb
+Size: 3552
+MD5sum: 72cbd8ace10204caa4bce605c225afbd
+SHA1: 761ce3ce355f4ce01d771714beaf34e53bd541ae
+SHA256: e473b2a6b2ede604d521bb4e77049308a3867fdac8c4b5b45b88163e43f1ea27
+SHA512: 7055b3787e42d563cb37459793923efa53e1d9c9bc379e54810a9119d3d215005be5266fb7958cbbf2c0487ba3ec991bec7b541e21d8e55fd93f47538c6bc636
+Description: 为 Choicy 提供简体中文
+Name: zh-Hans for Choicy
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.opa334.choicy/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.opa334.choicy/image.png
+
+Package: com.nan.choicy.zh-hans
+Architecture: iphoneos-arm64
+Version: 0.1.1
+Section: Localization
+Maintainer: zhaonan
+Depends: com.opa334.choicy
+Replaces: com.opa334.choicy
+Filename: ./debs/iphoneos-arm64/com.nan.choicy.zh-hans_0.1.1_iphoneos-arm64.deb
+Size: 3604
+MD5sum: d70368bd70c20be0a42d819fd882f512
+SHA1: 6420b1db145a11f45a946f60118eef995b7f8c73
+SHA256: 06f2e9e499637798ce3928c38502c688b414308b8478b1db459df46d1b856272
+SHA512: e8ec8ee697b150cece990d9df4c4eac0b5874ee62d2c3686c4bf3e984e5a4681b9ddb5f9b591801531ee2a35fa314c7b387fb582df4106b9a8aa9f275601bd71
+Description: 为 Choicy 提供简体中文
+Name: zh-Hans for Choicy
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.opa334.choicy/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.opa334.choicy/image.png
+
+Package: com.nan.choicy.zh-hans
+Architecture: iphoneos-arm64e
+Version: 0.1.1
+Section: Localization
+Maintainer: zhaonan
+Depends: com.opa334.choicy
+Replaces: com.opa334.choicy
+Filename: ./debs/iphoneos-arm64e/com.nan.choicy.zh-hans_0.1.1_iphoneos-arm64e.deb
+Size: 3556
+MD5sum: dc6998230485e62e80e37a606f78de6a
+SHA1: 792a72e6b3941c787c7dd296f79a40052c6dbf82
+SHA256: 9ba814ae60f38bfa4c7b3e2f6a62c8db137589e5a4190a1a367ee9962965cc9a
+SHA512: a6214e5513c5255f36723aec71124c87afafb3630b2cc98ba997fcce18da1618106a07cc39520bd9cfd4e8f2d5acdcda5f5b4881065cd0eb591553c570661cc2
+Description: 为 Choicy 提供简体中文
+Name: zh-Hans for Choicy
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.opa334.choicy/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.opa334.choicy/image.png
+
+Package: com.nan.crane.zh-hans
+Architecture: iphoneos-arm
+Version: 0.1.0-4
+Section: Localization
+Maintainer: zhaonan
+Depends: com.opa334.crane
+Replaces: com.opa334.crane
+Filename: ./debs/iphoneos-arm/com.nan.crane.zh-hans_0.1.0-4_iphoneos-arm.deb
+Size: 8652
+MD5sum: 05977040cb40a26a19cca44f4d78fc0b
+SHA1: 05d98f01df69772bb6d26e69a28ba33cda28a440
+SHA256: 4da864e3e6f49a476e82bccfb2af8124e7bb4b7498f9d23b16295228edd1a503
+SHA512: 7b078eed7cb06e8ce2b09a8d7a6d72b86818048812dc10e13d14c9e32366492f11e52263163d9a6b93f687757c93cfded4906daaafb93aa8b4bb82d0d209dba5
+Description: 为 Crane 提供简体中文
+Name: zh-Hans for Crane
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.opa334.crane/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.opa334.crane/image.png
+
+Package: com.nan.crane.zh-hans
+Architecture: iphoneos-arm64
+Version: 0.1.0-4
+Section: Localization
+Maintainer: zhaonan
+Depends: com.opa334.crane
+Replaces: com.opa334.crane
+Filename: ./debs/iphoneos-arm64/com.nan.crane.zh-hans_0.1.0-4_iphoneos-arm64.deb
+Size: 8684
+MD5sum: d24d8fd27722795143bccc7df38dddd8
+SHA1: 80389416e461da84fc73de0b9e0591b5feb6bba0
+SHA256: f965be893f7381729ce9a62573149a610d52e62d598ea587a934c2f30778c048
+SHA512: e53b002af696bbb69b71f289146ba52293e6e7ffc51d6e6c179def9dd9ef8d96ac4acda933de396039d24794664127292b4013bde88b95d0147a8093202db720
+Description: 为 Crane 提供简体中文
+Name: zh-Hans for Crane
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.opa334.crane/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.opa334.crane/image.png
+
+Package: com.nan.crane.zh-hans
+Architecture: iphoneos-arm64e
+Version: 0.1.0-4
+Section: Localization
+Maintainer: zhaonan
+Depends: com.opa334.crane
+Replaces: com.opa334.crane
+Filename: ./debs/iphoneos-arm64e/com.nan.crane.zh-hans_0.1.0-4_iphoneos-arm64e.deb
+Size: 8660
+MD5sum: 3928a71cfb15bf24bfb4a0e752773eae
+SHA1: 1eec5ec1761a132df3a1b991749cb55e35c87009
+SHA256: 6d4f7932d3492296d3c749bc7e66b664a22fd425c6a5b736f1b002b0c111bdb0
+SHA512: 1fec27b3c5bf296ead55290a172c7e98c0432b80f1f43664bfc8ccd9ffe9fda311d5101c2b132d5a68a872970f9f7c3cd15eccae24f5ebdd19e363cf9edb1f7d
+Description: 为 Crane 提供简体中文
+Name: zh-Hans for Crane
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.opa334.crane/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.opa334.crane/image.png
+
+Package: com.nan.csp
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Pre-Depends: openssh-server | openssh
+Depends: sed, uikittools, uikittools-extra, lsof, plutil | com.bingner.plutil | com.ericasadun.utilities
+Conflicts: com.nan.localhostssh
+Filename: ./debs/iphoneos-arm/com.nan.csp_0.1.0_iphoneos-arm.deb
+Size: 2432
+MD5sum: f391dbde38b68c9c87eb3540f67b7ee5
+SHA1: 216c3031bca3287adef06f5af77fc7067dc1c6b4
+SHA256: 62cb3fe815396bc0cc412a36314457420f3706e5aa68fe2a8cc9d02d7381ae07
+SHA512: 46775c2fd41f48d7955bfa9f6efb29f555eec26b5482a2d98860f55eb6d6f6d5a52b57c11eccb1a6ed11d2b958b5883aacd417083d1584b681611a17653041d3
+Description: 自定义 SSH 端口并限制为仅限本机访问
+Name: Custom SSH Port
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.csp/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.csp/image.png
+
+Package: com.nan.csp
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Pre-Depends: openssh-server | openssh
+Depends: sed, uikittools, uikittools-extra, lsof, plutil | com.bingner.plutil | com.ericasadun.utilities
+Conflicts: com.nan.localhostssh
+Filename: ./debs/iphoneos-arm64/com.nan.csp_0.1.0_iphoneos-arm64.deb
+Size: 2396
+MD5sum: 6aea7f515f2605a79e3c19ee4f2d2598
+SHA1: b05cce3d78b5ca3158e174d73a5eac8f8f6cf601
+SHA256: b19e8bfb200bc156170f981b5b8e8fb3b6c6d4b7d41bf239c7bbb49faf257222
+SHA512: f8b4c56779273a2aa76daacd7cef7829d90d34a8a07d56bd1b20bef4ebd2e332363c96a4359f221f0bd58a15f8c694f8eaeb9ad72ea55b790d1b22d08af999f9
+Description: 自定义 SSH 端口
+Name: Custom SSH Port
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.csp/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.csp/image.png
+
+Package: com.nan.csp
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Pre-Depends: openssh-server | openssh
+Depends: sed, uikittools, uikittools-extra, lsof, plutil | com.bingner.plutil | com.ericasadun.utilities
+Conflicts: com.nan.localhostssh
+Filename: ./debs/iphoneos-arm64e/com.nan.csp_0.1.0_iphoneos-arm64e.deb
+Size: 2396
+MD5sum: e60fb64827793d88ad9f1f0b9e9d6de2
+SHA1: 310ff5aec43a163112b2a024bc2ffd5d7616f4f7
+SHA256: 102a130975478d5a284f3e35f166e2198ca1945fa04ee06c537dbb7a924efc80
+SHA512: a851b4002f61c3bb61318cebc1b56e6be0c29eee2cc7d10262d072f8ea23c956aea1c801068f47721f088718765ae3d0d07ac5ce233d07aade96c5c4cd2615d9
+Description: 自定义 SSH 端口
+Name: Custom SSH Port
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.csp/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.csp/image.png
+
+Package: com.nan.cy+cpu.arm64
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Provides: cy+cpu.arm64
+Conflicts: cy+cpu.arm64
+Filename: ./debs/iphoneos-arm/com.nan.cy+cpu.arm64_0.1.0_iphoneos-arm.deb
+Size: 820
+MD5sum: 5ca5a6076b486167dd7fe6d4c67541be
+SHA1: ad9f19092ddd3c0b538b4af78073e0cf2228c774
+SHA256: 56fb3cdf98bdc19adf287b9e5cd6ffd8c603133268c4951473043b7406bf2017
+SHA512: 8fa2697478c4039e8efef1a6efdc957e8ffa25f662f4b26959cf0883330ae5031dfc219e13a5e013a8e7ec212bc2d3b31b18c79e27364d13f6863c77725ef0cd
+Description: 虚拟依赖，用于解决 Chimera 环境下的 cy+cpu.arm64 虚拟依赖报错问题
+Name: cy+cpu.arm64
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.cydown.zh-hans
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Localization
+Maintainer: zhaonan
+Depends: com.julioverne.cydown
+Replaces: com.julioverne.cydown
+Filename: ./debs/iphoneos-arm/com.nan.cydown.zh-hans_0.1.0_iphoneos-arm.deb
+Size: 5272
+MD5sum: 99e6667f465670e8551760f35c82fdb5
+SHA1: 9e3fd456db13c56d5f4bd10ae1c08cd36adcd0be
+SHA256: a9f1125f534280858180289f2c7d8454595fdac2d08b0f4261a335f1d27f920e
+SHA512: a5c98f98ed1b2abfe6d5e0da2583692a4946dd148413b5828219033127b3daec6f883bdd4ba70c442eb71df7b1f8a4a8276a7cc40786d91c442871e1088dd2c2
+Description: 为 CyDown 提供简体中文
+Name: zh-Hans for CyDown
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.julioverne.cydown/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.julioverne.cydown/image.png
+
+Package: com.nan.deb
+Architecture: iphoneos-arm
+Version: 0.3.0
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: coreutils, sed, findutils
+Filename: ./debs/iphoneos-arm/com.nan.deb_0.3.0_iphoneos-arm.deb
+Size: 4256
+MD5sum: 00618140c2f08ffd09f91d45ef9a27a4
+SHA1: 4bfcfa89191dae4debb83a577ba73db2cbe9958b
+SHA256: 113ad5b29aba433ad54e59d3b35193ff436c53f070bcf0172fb735b17c8fc0d3
+SHA512: ad6d0e3dcc6fd5937ef7f98ca51bb4ca7089ed3b52c99d3b50caea198a9228edfffbd0edf6bd3f14dbd880b81a8ede0f934c687396f893ee74d5c4e8fadd5071
+Description: deb 工具，普通解压，普通打包，批量解压，批量打包，提取已安装软件包，deb 信息查看
+Name: deb
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.deb
+Architecture: iphoneos-arm64
+Version: 0.3.0
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: coreutils, sed, findutils
+Filename: ./debs/iphoneos-arm64/com.nan.deb_0.3.0_iphoneos-arm64.deb
+Size: 4280
+MD5sum: 8d85747587fa2d3cb2733408bb0d28fd
+SHA1: eb2db2c14f4b615e001c2a957886deddedcd5638
+SHA256: b118565c12aa7257b0ab4c2b372e890586f84931ff0ea2aba059f74fec91a602
+SHA512: b8da8358b1e6acc3aa087950f7376227114c121ebe1354a5a88b4b415abc1b760641807fb5071c5bd331056095d6a82c137855cdfd68f35a0fcb857924a01be9
+Description: deb 工具，普通解压，普通打包，批量解压，批量打包，提取已安装软件包，deb 信息查看
+Name: deb
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.deb
+Architecture: iphoneos-arm64e
+Version: 0.3.0
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: coreutils, sed, findutils
+Filename: ./debs/iphoneos-arm64e/com.nan.deb_0.3.0_iphoneos-arm64e.deb
+Size: 4260
+MD5sum: 01da4bd69920757d94adaf2fcfebc8ee
+SHA1: b398d75478a7ef64d2c1ed6e18a3b8d9de649175
+SHA256: a4ab792400b7a63c6193eae143b2e51f9a81c420bdc617cbbcf7bcb8319120e9
+SHA512: dcc704c9258d8ea1a80f7bae93ab2ed9c0551addf5ab61f401ccd2d3c5c12685af02b12c09421f3afebc3416cb4f6b025070f42146f15aa71f8288efd925d0dd
+Description: deb 工具，普通解压，普通打包，批量解压，批量打包，提取已安装软件包，deb 信息查看
+Name: deb
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.deb-filza-script-b
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Pre-Depends: com.tigisoftware.filza64bit | com.tigisoftware.filza
+Depends: com.nan.deb
+Filename: ./debs/iphoneos-arm/com.nan.deb-filza-script-b_0.1.0_iphoneos-arm.deb
+Size: 1140
+MD5sum: 4b76679637c7400f4dd949ffb26d7cdf
+SHA1: b9f8222d521e246f389c136accf389c7877c8204
+SHA256: 1656be218e209b4fcbbfa7b278492085f20e3e423255ab205138345e4d62d8f6
+SHA512: 920e31e47f89dde0708bde0f653c94d4e0f82752f59366839adce806d54d67100433ccdc1d7957031ceca9beedb3aff4c038c3c22624741df437f8ebd5dc83c8
+Description: deb 扩展，Filza 脚本，打包 deb，打包有 deb 的目录
+Name: FilzaScript deb -b
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js_b.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.deb-filza-script-b
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Pre-Depends: com.tigisoftware.filza64bit | com.tigisoftware.filza
+Depends: com.nan.deb
+Filename: ./debs/iphoneos-arm64/com.nan.deb-filza-script-b_0.1.0_iphoneos-arm64.deb
+Size: 1148
+MD5sum: f4e7286fc66208d5890c92d9f8476b73
+SHA1: cacf77878aa094bb01bc056bbe46607d5002b943
+SHA256: 0e036457573ef830847cdd076ff2a897d098e9de31e9538d67525af45aeefcb2
+SHA512: c9bf17fb691ab8950aba13e9f17f78c05db71a574afb47abe80b796a5d2888a6befd1516aa51d27b56c7fea3ca11bce03a156c5abdc9b434da3276c5062dde8f
+Description: deb 扩展，Filza 脚本，打包 deb，打包有 deb 的目录
+Name: FilzaScript deb -b
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js_b.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.deb-filza-script-b
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Pre-Depends: com.tigisoftware.filza64bit | com.tigisoftware.filza
+Depends: com.nan.deb
+Filename: ./debs/iphoneos-arm64e/com.nan.deb-filza-script-b_0.1.0_iphoneos-arm64e.deb
+Size: 1148
+MD5sum: 71bc31721a4b47184154516732f6420e
+SHA1: d1386b512ed6505b0cabfd775e5448ed08d3beb4
+SHA256: 1ec9a418d2a12931f08c7265b7a8f7d9af8dc02b7efcb555b351cf79cf4aa0fe
+SHA512: 972db11900cbd33eab019d666893159f0e000fd795b934180361b759d7ae4d2faf4d9adcf1e0b9675d4e5aa0dd76b9bf9bfdb70669c74cd2c49fd04512d698d8
+Description: deb 扩展，Filza 脚本，打包 deb，打包有 deb 的目录
+Name: FilzaScript deb -b
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js_b.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.deb-filza-script-b-gzip
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Provides: com.nan.deb-filza-script-b
+Pre-Depends: com.tigisoftware.filza64bit | com.tigisoftware.filza
+Depends: com.nan.deb
+Conflicts: com.nan.deb-filza-script-b, com.nan.deb-filza-script-b-xz
+Filename: ./debs/iphoneos-arm/com.nan.deb-filza-script-b-gzip_0.1.0_iphoneos-arm.deb
+Size: 1172
+MD5sum: f0ea09aac15b26861ee7193e7f5bbc65
+SHA1: 95cf9d897217aabc07323cab5127e32f008fda52
+SHA256: 38a442125a52e6f22450681e6fe4c528c1cd5260943fc9576358644bd7a45db3
+SHA512: 9e06f2c9f5ee34c19f2587fdb0689cc5fb2dc1c31242bd6f52da25ae3cd689c66abf9d1e4ba1b0960d9862c8a7597250c5f554441eb4e399e06afd37a03c65e7
+Description: deb 扩展，Filza 脚本，打包 deb，打包有 deb 的目录
+Name: FilzaScript deb -b gzip
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js_b.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.deb-filza-script-b-gzip
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Provides: com.nan.deb-filza-script-b
+Pre-Depends: com.tigisoftware.filza64bit | com.tigisoftware.filza
+Depends: com.nan.deb
+Conflicts: com.nan.deb-filza-script-b, com.nan.deb-filza-script-b-xz
+Filename: ./debs/iphoneos-arm64/com.nan.deb-filza-script-b-gzip_0.1.0_iphoneos-arm64.deb
+Size: 1188
+MD5sum: 48ed442d9c3b675ddbfc81bf15922079
+SHA1: e6c659453ba7549c01550730de687eac1ebe4945
+SHA256: 131e1dc498bc702e63bf5a64d08d2654a26232346f4e018f4b4a6435eaa2bc67
+SHA512: 6b44f97bd912d00caa4865b7dbc52f3624cdba68ac1d4096cd54dafbd9be0e171550efaacea7636a3bdd456ce5307b891de507f270053c5fa03bc9ff6be076c1
+Description: deb 扩展，Filza 脚本，打包 deb，打包有 deb 的目录
+Name: FilzaScript deb -b gzip
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js_b.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.deb-filza-script-b-gzip
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Provides: com.nan.deb-filza-script-b
+Pre-Depends: com.tigisoftware.filza64bit | com.tigisoftware.filza
+Depends: com.nan.deb
+Conflicts: com.nan.deb-filza-script-b, com.nan.deb-filza-script-b-xz
+Filename: ./debs/iphoneos-arm64e/com.nan.deb-filza-script-b-gzip_0.1.0_iphoneos-arm64e.deb
+Size: 1184
+MD5sum: 0daaa7997c0541163860861d3d61f8c5
+SHA1: 3a00edbc7c059c8cac4246e22b93a0e0fdf63cee
+SHA256: f4ed6dcd11385b3b4a70d8deed1c59bf025afa280117d825a0816e0bf1761310
+SHA512: 5d81c63e9f2e5349aa1e5f663a87ff090ad78b04d887b0944ed1285aee41b11cad153ae16105529c21271f1378d2ddc5847656b38d42f84c8c7201589588607b
+Description: deb 扩展，Filza 脚本，打包 deb，打包有 deb 的目录
+Name: FilzaScript deb -b gzip
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js_b.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.deb-filza-script-b-xz
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Provides: com.nan.deb-filza-script-b
+Pre-Depends: com.tigisoftware.filza64bit | com.tigisoftware.filza
+Depends: com.nan.deb
+Conflicts: com.nan.deb-filza-script-b, com.nan.deb-filza-script-b-gzip
+Filename: ./debs/iphoneos-arm/com.nan.deb-filza-script-b-xz_0.1.0_iphoneos-arm.deb
+Size: 1176
+MD5sum: 118eea1149b5f4c4fe400e23cfa55644
+SHA1: e8f9a3e874313fcde98123ed5eb2dd9622e1b74c
+SHA256: 04eed30cadb562267800766478d049e3db3d4d2bdb0f0bf5c6bdd857aa590848
+SHA512: 7a4ecb83411a4d52b91e285f16222e9d760a996451488e340d901f93fa2c7ebe1c710695b9124971b6b82e3f34a9899f68815c43c65d1a048fce808d29d29e18
+Description: deb 扩展，Filza 脚本，打包 deb，打包有 deb 的目录
+Name: FilzaScript deb -b xz
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js_b.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.deb-filza-script-b-xz
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Provides: com.nan.deb-filza-script-b
+Pre-Depends: com.tigisoftware.filza64bit | com.tigisoftware.filza
+Depends: com.nan.deb
+Conflicts: com.nan.deb-filza-script-b, com.nan.deb-filza-script-b-gzip
+Filename: ./debs/iphoneos-arm64/com.nan.deb-filza-script-b-xz_0.1.0_iphoneos-arm64.deb
+Size: 1184
+MD5sum: aca59ee7f5e8896dd5def6e1fbc8bc22
+SHA1: 1498a07c304249d4ffa96342be69f75c6c141e85
+SHA256: 0e3ea842990f7b9f8536458b6f51f70ec6bf3dc3bbcb01fc2126372163c72111
+SHA512: 0591859d2e303ea13ed8198026da55ddbd34670f73cfdd2cc716a499507db408074863acfcc0ee6fd6fb1b9156c2032bef3fa3956845ace82fcfa97c7dbbe362
+Description: deb 扩展，Filza 脚本，打包 deb，打包有 deb 的目录
+Name: FilzaScript deb -b xz
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js_b.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.deb-filza-script-b-xz
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Provides: com.nan.deb-filza-script-b
+Pre-Depends: com.tigisoftware.filza64bit | com.tigisoftware.filza
+Depends: com.nan.deb
+Conflicts: com.nan.deb-filza-script-b, com.nan.deb-filza-script-b-gzip
+Filename: ./debs/iphoneos-arm64e/com.nan.deb-filza-script-b-xz_0.1.0_iphoneos-arm64e.deb
+Size: 1184
+MD5sum: 317879ef970ca9c95a1695efb2b4d17b
+SHA1: 80ff6b6736e625550446b4b63bf73f8c86f56c7a
+SHA256: 81d2e0453e9c4e97cbaf7b37d7519ab326458c9cc55538d21b2103fa09a3c3da
+SHA512: c8d9346754311a6b4e212f38145bd69b5248b95aaf913c0ec9b0ce76d5faad18faf8ae7bf7389afe970cda3a6d4364c0c2ca93e102a52cad604d33e120d7e6a5
+Description: deb 扩展，Filza 脚本，打包 deb，打包有 deb 的目录
+Name: FilzaScript deb -b xz
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js_b.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.deb-filza-script-r
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Pre-Depends: com.tigisoftware.filza64bit | com.tigisoftware.filza
+Depends: com.nan.deb
+Filename: ./debs/iphoneos-arm/com.nan.deb-filza-script-r_0.1.0_iphoneos-arm.deb
+Size: 1204
+MD5sum: 3645fccd5b3186f4917c69c35785f8de
+SHA1: 6cff482ddb8ecf822e04db66f2bddd1357443f2f
+SHA256: fd96d92e5f88904be4c6d5e42cd90ac39f29d0f634b71fdf1fd33f488d9f66d4
+SHA512: f79773b7f66e2f6e5634642224352a59113a1ad92353aa00b4ad5986a92fbbdb2172b4fdcb638ac5d5cfaee6f4d880c611323a696bbec47e21ddefd196003104
+Description: deb 扩展，Filza 脚本，可用于解决 Filza 无法解压无文件的 deb
+Name: FilzaScript deb -r
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js_r.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.deb-filza-script-r
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Pre-Depends: com.tigisoftware.filza64bit | com.tigisoftware.filza
+Depends: com.nan.deb
+Filename: ./debs/iphoneos-arm64/com.nan.deb-filza-script-r_0.1.0_iphoneos-arm64.deb
+Size: 1212
+MD5sum: d0856b3f33fedc887df60ddac4644f74
+SHA1: 958e92d5fd7ebb21a7995d3d4249de44389fa564
+SHA256: 7aee67b92bec778fac59fe9e433e5330f6f3c123888c369760b0db82840eeda0
+SHA512: 435680856035eb3cd163b87ada844377771b3a72a935de8d9f0e73007cd89ae6d06850460a62d04cab4e6157a2156bd80b04f16dbb4f982bcb544f5feb3c72f3
+Description: deb 扩展，Filza 脚本，可用于解决 Filza 无法解压无文件的 deb
+Name: FilzaScript deb -r
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js_r.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.deb-filza-script-r
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Pre-Depends: com.tigisoftware.filza64bit | com.tigisoftware.filza
+Depends: com.nan.deb
+Filename: ./debs/iphoneos-arm64e/com.nan.deb-filza-script-r_0.1.0_iphoneos-arm64e.deb
+Size: 1212
+MD5sum: d5bd9135c3f8760994a93c2da52fa8d7
+SHA1: 050354110d6067ec18c6d8b6bdbb5c4cc5073479
+SHA256: 6795bcf62b74c0c609d92aa2dcdade59f0ea2d53c390815650f7561b9e544fc4
+SHA512: 958d3f5257484535fa97d2141492b855949c964077ce20c71e2451121fbb6a3d5a90c5f68983d1936fd5258cae0cbe6a03ef34353dbde221af4efc32fc171dc9
+Description: deb 扩展，Filza 脚本，可用于解决 Filza 无法解压无文件的 deb
+Name: FilzaScript deb -r
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.deb/js_r.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.debd
+Architecture: iphoneos-arm
+Version: 0.4.2
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk, curl, zstd, xz-utils, bzip2, gzip, text-cmds, ncurses-bin, file, jq, defaults
+Filename: ./debs/iphoneos-arm/com.nan.debd_0.4.2_iphoneos-arm.deb
+Size: 4848
+MD5sum: 1d99850bb31825d4a57ae849f4297f8a
+SHA1: 7b6ac49c364736376ae9773a3cb9e344cab177a9
+SHA256: 09c922634e79ef6e74d11cfc467849be3f79765b52638dfe6731b130a5816294
+SHA512: 9a9d6b2fc50bfb60eaeac05c66f0bb78afb014bc0aec792450ada5770b646a76bef2584535807c17d34de57d7d7dc62b730a9e47ab911e606a32b94b003bac11
+Description: 轻量 deb 下载工具，不支持付费才能下的插件
+Name: debd
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.debd/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.debd
+Architecture: iphoneos-arm64
+Version: 0.4.2
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk, curl, zstd, xz-utils, bzip2, gzip, text-cmds, ncurses-bin, file, jq, defaults
+Filename: ./debs/iphoneos-arm64/com.nan.debd_0.4.2_iphoneos-arm64.deb
+Size: 4860
+MD5sum: 2af1d454ef717d1dde7763fcefef4f2d
+SHA1: 6fcacc01bc8b5032fa87408c3161415f0d8e40ab
+SHA256: 568d5f44d66f26f99d43cdc45c79e990e7dc4ab2b3c84be19f54098a29feeea4
+SHA512: efef73ab56e4d47ab58376f91d43f5e675475536c936eb9e5f613b1ec55aed347735ffd80b879ff34d380de1a912644234e90122e45cae771a3146d1902f19e5
+Description: 轻量 deb 下载工具，不支持付费才能下的插件
+Name: debd
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.debd/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.debd
+Architecture: iphoneos-arm64e
+Version: 0.4.2
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk, curl, zstd, xz-utils, bzip2, gzip, text-cmds, ncurses-bin, file, jq, defaults
+Filename: ./debs/iphoneos-arm64e/com.nan.debd_0.4.2_iphoneos-arm64e.deb
+Size: 4844
+MD5sum: f6d89d1491ba180038142e224d9ce2a7
+SHA1: 84f9227867e558a7018d4fcd05e3a6a12a1b305a
+SHA256: 2931092b7bc289dfa60d6e7512aed5a1274919b4a3c8d4296dd13b0660654461
+SHA512: 238da6db8962eaf5c0bcca2eec12c8d7942cbf93772bc54633d5bb18b97758e0d6ce7ceecbf88bcfc9e4e271d8e7e75a922b9e560b6e3648a859a398df934963
+Description: 轻量 deb 下载工具，不支持付费才能下的插件
+Name: debd
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.debd/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.disablelowpoweralerts
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 9.0)
+Depends: plutil | com.bingner.plutil
+Filename: ./debs/iphoneos-arm/com.nan.disablelowpoweralerts_0.1.0_iphoneos-arm.deb
+Size: 1196
+MD5sum: ac8c4913b9dc6857a74c0130b7a5b866
+SHA1: abe3f25c3eb07933d56925b93447e6d14dbc3130
+SHA256: 77f7a26f57d4fb0a1aa08ba6af35cd98da43c29cc9174e6161f28ed44b0c14c0
+SHA512: d4fa2ea5ef3b070d99363519769d7c9058ed50f8a04ac9a39a19aab83967911fb40674770a43e9b7e30d0457afeef2ae3bc9abb4bbf94ec7755a4f0ff13ce0a2
+Description: 禁用低电量弹窗
+Name: Disable LowPower Alerts
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablelowpoweralerts/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.disablelowpoweralerts
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 9.0)
+Depends: plutil | com.bingner.plutil
+Filename: ./debs/iphoneos-arm64/com.nan.disablelowpoweralerts_0.1.0_iphoneos-arm64.deb
+Size: 1200
+MD5sum: fa6da09c3de41d336a61d32e85277d12
+SHA1: f5ad7bbcf16631d34783c33ebf214fb9d644cec7
+SHA256: 4d8d0ea3b80fcbe502228ee96deca4ce080e96e662f4d03f7b71ae82fd01a419
+SHA512: 44a5c2e9dd5fe10f1d8d4154e5f277231ea0e7f60894d1a604d85d8562c548438a339212bcbd5e3227bac8228e87e0cdf37241d0b106dfb038166d6c6ee6f183
+Description: 禁用低电量弹窗
+Name: Disable LowPower Alerts
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablelowpoweralerts/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.disablelowpoweralerts
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 9.0)
+Depends: plutil | com.bingner.plutil
+Filename: ./debs/iphoneos-arm64e/com.nan.disablelowpoweralerts_0.1.0_iphoneos-arm64e.deb
+Size: 1204
+MD5sum: 295ddfccc39057c3a5cce517c83b7b11
+SHA1: 1b1226d045cd3d24a9dc988ecc6d7cd34f14cf92
+SHA256: 4903abf819520167f7e29bfcba21905d175a55b4a25a1c3e351d53c4445c950d
+SHA512: 4b5600200705a0dc4653cb1a669c844fe2ff8650737628abfc98fa8636a96b4022c6db9a024f043c853f0fea1ad4733149add1e29c1f12d6945d08e473bcbdd1
+Description: 禁用低电量弹窗
+Name: Disable LowPower Alerts
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablelowpoweralerts/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.disablesblockaftercrash
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 7.0)
+Depends: plutil | com.bingner.plutil
+Filename: ./debs/iphoneos-arm/com.nan.disablesblockaftercrash_0.1.0_iphoneos-arm.deb
+Size: 1220
+MD5sum: 50ce7d2e063c49070c7f7990d096a69a
+SHA1: 14214ac1a1a815388ad703b7184818d388a30987
+SHA256: 09884bb8812064e405545f42d25544aca44636a71372545dd9dd4b0cbbbb4e52
+SHA512: a8e7be937d69ecd253324cb13df264f6cfdae80d549d22048ecf785b06ac9a8a06bbb94d18ebdc0946b4803a824e43adff8d25b7d3e9245bda4952b179f9529b
+Description: 禁用 SpringBoard 崩溃后自动锁定的策略
+Name: Disable SB Lock After Crash
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablesblockaftercrash/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.disablesblockaftercrash
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 7.0)
+Depends: plutil | com.bingner.plutil
+Filename: ./debs/iphoneos-arm64/com.nan.disablesblockaftercrash_0.1.0_iphoneos-arm64.deb
+Size: 1228
+MD5sum: 1535abd43a89bf102ca1fb821e1549ac
+SHA1: 32ed62e231e0e70791e24efdbc77a51e54825d17
+SHA256: ea5ca9e759c1ef91bb0b2e3a39b6eee6f0c9eedb4c5ddc001457f53c39953e67
+SHA512: c632d66833f8d63dc2ee2977919f11593f6ee60d8c82715a18130690a0588b71fd798e2bbc1426955b4ec2c0d4ffebb7c91b315c94ddf0a11998905619d0d16d
+Description: 禁用 SpringBoard 崩溃后自动锁定的策略
+Name: Disable SB Lock After Crash
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablesblockaftercrash/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.disablesblockaftercrash
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 7.0)
+Depends: plutil | com.bingner.plutil
+Filename: ./debs/iphoneos-arm64e/com.nan.disablesblockaftercrash_0.1.0_iphoneos-arm64e.deb
+Size: 1232
+MD5sum: b6496220bedd88533273432210e08668
+SHA1: 79a12da1cca20bccbc006cae553a4f9c9f9c1e89
+SHA256: 5c6b8be1d3854cd280879befec34a02be3271b60a284e9f3c9d30b6417f597e9
+SHA512: 2edb0a607204dbc744659791c712334b760aabcc4631845fd8211b10d7c14383819c76a3d32ff7d9dd9219aa55ebff9684abca7abce66f2ab679517294a82db0
+Description: 禁用 SpringBoard 崩溃后自动锁定的策略
+Name: Disable SB Lock After Crash
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablesblockaftercrash/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.disablethermalmonitord
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Depends: plutil
+Filename: ./debs/iphoneos-arm/com.nan.disablethermalmonitord_0.1.0_iphoneos-arm.deb
+Size: 1224
+MD5sum: 89f90cff83ff2fc82da28517d7ca22e6
+SHA1: 905a19b83209be96e5442142f3cf7ccd1a93328b
+SHA256: 79294aa56aa09efecacc56d79f94059cab4f8f59a9f4a8975980e3fdda0267ff
+SHA512: 121a19dccfffc53013409afe352cbf5d2237be1d49835fc75b6bf96d72c0b047fd28b0e7d62f7f378d979ec2653ace1130fa41b5f700099f8dcb70315de600f3
+Description: 关闭 thermalmonitord，可能防温控，低电量降频应该失效
+Name: Disable Thermalmonitord
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablethermalmonitord/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.disablethermalmonitord
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Depends: plutil
+Filename: ./debs/iphoneos-arm64/com.nan.disablethermalmonitord_0.1.0_iphoneos-arm64.deb
+Size: 1224
+MD5sum: c15c68890907f45fe075dbe9b841641e
+SHA1: b02d76331fca9b7735d9d688d32fba3dd51c6ba1
+SHA256: de807a91d4ec7ffc19add24f4f596835c5995d715d118c303d73d80694360188
+SHA512: d4a2afdcf2c751537e9117f1a74b712405a1f4fc91b9016aa68220f8f8d35a88123faf080719124c28c374631ab623ab78b292a5f2c3eeb7bc8ec6b7ec04d384
+Description: 关闭 thermalmonitord，可能防温控，低电量降频应该失效
+Name: Disable Thermalmonitord
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablethermalmonitord/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.disablethermalmonitord
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Depends: plutil
+Filename: ./debs/iphoneos-arm64e/com.nan.disablethermalmonitord_0.1.0_iphoneos-arm64e.deb
+Size: 1224
+MD5sum: 50a7c8977cffdd82af20e64f928ffe97
+SHA1: e31ec643fc7c16c35ec037336174a6cd8477651c
+SHA256: 7604277f82d4b0cdc779a99ba1e0c1a9cd0849f36741db749eb4ca482fe22be9
+SHA512: b610091a174cad5d9b11aa045be9b64cde492a1e87c74ebe4e7d3876668299efc35c603f3878c2a74bc8301333c630352f1f5124628c24ff74e5db1f45178322
+Description: 关闭 thermalmonitord，可能防温控，低电量降频应该失效
+Name: Disable Thermalmonitord
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablethermalmonitord/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.disableupdates
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: System
+Maintainer: zhaonan
+Pre-Depends: file-cmds
+Filename: ./debs/iphoneos-arm/com.nan.disableupdates_0.1.1_iphoneos-arm.deb
+Size: 1116
+MD5sum: 10849ca40a24a20b55f561515378f8e2
+SHA1: 420c86fbf80487f8cc6b7b74eb74e3c7f0ac749b
+SHA256: b88e4c9162dd0cef902d2f962b3dad9c1df442ac17a711825c69e694653b3ffc
+SHA512: 193faead51568cd102207e3d941860787119be63e470b87cd44a6fd40ba672951830f2532c517697cb3ecc05ff1076cdf1006aad01b3151a901b7de1c14971de
+Description: 通过锁定 /var/MobileSoftwareUpdate/MobileAsset/AssetsV2 来阻止系统更新
+Name: Disable Updates
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disableupdates/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.disableupdates
+Architecture: iphoneos-arm64
+Version: 0.1.1
+Section: System
+Maintainer: zhaonan
+Pre-Depends: file-cmds
+Filename: ./debs/iphoneos-arm64/com.nan.disableupdates_0.1.1_iphoneos-arm64.deb
+Size: 1116
+MD5sum: c2bc2bddf91fd543fcf380eb3d79abfd
+SHA1: 30959bf1fc28727774624f5bea1f76767e8740e0
+SHA256: 0a49a22153c0b425943178aaa5a353f8652d35c28fce2b7ca4e11028af280580
+SHA512: b650d7671815436f6af757b804ff9c53d8d115deaac2d08b50a1b7bdebdf8adbe0c97527291620f07d0042b6b6b3b8fffc88d73542be27958542671090099218
+Description: 通过锁定 /var/MobileSoftwareUpdate/MobileAsset/AssetsV2 来阻止系统更新
+Name: Disable Updates
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disableupdates/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.disableupdates
+Architecture: iphoneos-arm64e
+Version: 0.1.1
+Section: System
+Maintainer: zhaonan
+Pre-Depends: file-cmds
+Filename: ./debs/iphoneos-arm64e/com.nan.disableupdates_0.1.1_iphoneos-arm64e.deb
+Size: 1124
+MD5sum: a0a3e3af45498f5db3a7911658c67955
+SHA1: 67721488e9a284cc3350f8ac2f18be7ca55ac44b
+SHA256: 6e25acd15098c1aab8263d105766782b0d6da11817115cca0035c06e609a29a0
+SHA512: fa84554dd2f9a4299742aafe94849a1bb2c618bb0becdda3ccb9c493cb68dc0132f0841714425352fe8b497fa02b0998c6781effc2c6651b9d5d8021efb82c9b
+Description: 通过锁定 /var/MobileSoftwareUpdate/MobileAsset/AssetsV2 来阻止系统更新
+Name: Disable Updates
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disableupdates/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.dpkg-fill
+Architecture: iphoneos-arm
+Version: 0.3.8
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: firmware (>= 11.0), sed, coreutils, lsof
+Filename: ./debs/iphoneos-arm/com.nan.dpkg-fill_0.3.8_iphoneos-arm.deb
+Size: 2036
+MD5sum: de7dbbf94d6b58abde357453f59c518a
+SHA1: 6b94744735825b7679a09499fb91d17b43e3df30
+SHA256: 5eb0f19370079ee24aa26002ae65e6f337b81cb7f7d24a401d7e5f46e8057887
+SHA512: 5eec6163687c5273c22f206ab154b4f065038ef8710d64b99578489877fdcd35cc905dbe95b56a45461e6f99430f51cfe7b929bb85e7140a1140ff68919c7868
+Description: 修补因缺少维护者和描述的报错信息
+Name: dpkg-fill
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.dpkg-fill/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.dpkg-fill
+Architecture: iphoneos-arm64
+Version: 0.3.8
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: firmware (>= 11.0), sed, coreutils, lsof
+Filename: ./debs/iphoneos-arm64/com.nan.dpkg-fill_0.3.8_iphoneos-arm64.deb
+Size: 2060
+MD5sum: d256d0536a453ac3eea7921c56b597d2
+SHA1: 981d6b3f7596040113dc024817b147ff8c8cdba8
+SHA256: 830e8f34b2339fe5f701494473cced8ead1124e9586cba26e792ec9bee8c85f4
+SHA512: db8e00506eb9d73f9b3dfc3ad50a8fb1aaf9f8a8f365836000e1b1226a637df9d42a7fe8447c9ab348d517a11c0c8d622beb303a39e26dc387336339789f1d33
+Description: 修补因缺少维护者和描述的报错信息
+Name: dpkg-fill
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.dpkg-fill/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.dpkg-fill
+Architecture: iphoneos-arm64e
+Version: 0.3.8
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: firmware (>= 11.0), sed, coreutils, lsof
+Filename: ./debs/iphoneos-arm64e/com.nan.dpkg-fill_0.3.8_iphoneos-arm64e.deb
+Size: 2036
+MD5sum: 517af14d0cbccc9f2137b15024657dbe
+SHA1: d007d70acb72a09898d1b21a44001cbe88b6680b
+SHA256: 81fa1b2fd2d6aafba7e20d6c68a1a6cba81a4383fe6a08df635cd54b0ca4d580
+SHA512: e52a9c76796c1f18245278748461734569fc376daa302dee1b140b487c5ca8e4c147bc05b041393fac23855e7a5bb0bc7c2ebd64691333d3c78896269d9fcf01
+Description: 修补因缺少维护者和描述的报错信息
+Name: dpkg-fill
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.dpkg-fill/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.dpkg-fill-daemon
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Pre-Depends: com.nan.dpkg-fill
+Conflicts: com.nan.dpkg-fill-triggers
+Filename: ./debs/iphoneos-arm/com.nan.dpkg-fill-daemon_0.1.0_iphoneos-arm.deb
+Size: 1892
+MD5sum: 061fdb1e9523b9a42fab7bd6580fd6c8
+SHA1: c645dc432f723fa82d370a72f014653ffec76231
+SHA256: b8a3b0a230f80d59ee87b6db3329fc5db38053b16a8c2db26c96b71c63317343
+SHA512: 019a93cea94414a63fdd9663a912f41f50f4771b04063c650df3b95a7405b263f2de67d75704d3761301beb122d2125598f325675f475a89786665b54e639972
+Description: 一个自动触发器，可以被多数插件安装时触发，拉起 dpkg-fill 进行自动填充丢失的值
+Name: dpkg-fill daemon
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.dpkg-fill/js_daemon.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.dpkg-fill-daemon
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Pre-Depends: com.nan.dpkg-fill
+Conflicts: com.nan.dpkg-fill-triggers
+Filename: ./debs/iphoneos-arm64/com.nan.dpkg-fill-daemon_0.1.0_iphoneos-arm64.deb
+Size: 1928
+MD5sum: 21fd3fb8507a23822a74c8f00d68ccd1
+SHA1: b855126f526b0d1f84a22d54ae2ecc68d446ac64
+SHA256: 31d1b72135e3a4e00b18d81fef35eadb8ca4978d3338fdf243913bb4c95eb5fe
+SHA512: a0d7952950631c8ca4b76ac22d95d3fc1ac639c7628d7ee96bbff60561ea604ef88c534b2aece22cbb35ccea4030f53c6c4172b2b6d0a92dc9e7e6418501ced8
+Description: 一个自动触发器，可以被多数插件安装时触发，拉起 dpkg-fill 进行自动填充丢失的值
+Name: dpkg-fill daemon
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.dpkg-fill/js_daemon.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.dpkg-fill-daemon
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Pre-Depends: com.nan.dpkg-fill
+Conflicts: com.nan.dpkg-fill-triggers
+Filename: ./debs/iphoneos-arm64e/com.nan.dpkg-fill-daemon_0.1.0_iphoneos-arm64e.deb
+Size: 1916
+MD5sum: c9b51a234a5135cbdffac2ef296e84d6
+SHA1: 0859c2152b599d799bb62ae43afdaf0529de52be
+SHA256: 7e03c85374c48fafbc9d0144921565f04a5a78328625a4d9bbf6a2d9d92e152c
+SHA512: 3dab3bd916ae87ecff87754eb084df64e924d3acd68bf67ad60725e1f0e938f7ea7ffdfc4a9f3d50d6228e646947f7e6bb333f9656f006d93851280d45afae71
+Description: 一个自动触发器，可以被多数插件安装时触发，拉起 dpkg-fill 进行自动填充丢失的值
+Name: dpkg-fill daemon
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.dpkg-fill/js_daemon.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.enableccmutemodule
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: System
+Maintainer: zhaonan
+Depends: firmware (>> 11.0)
+Filename: ./debs/iphoneos-arm/com.nan.enableccmutemodule_0.2.0_iphoneos-arm.deb
+Size: 1220
+MD5sum: 36287d94c923a3384a08a965105f273c
+SHA1: 372c07dab868d735d034c2fab0e8ea035b012454
+SHA256: a8978aee3f0a663d1f884d871e3c500706a867f556c7031b84057d5bc04fd95a
+SHA512: 1535fd44a003c916e65dc897c71c928cf2312584e4ca835322c8213a8a116c94b704a93fc21430edf61e455d498995a379cb636fed570b120b58111d418ed821
+Description: 激活原生 iPhone 控制中心静音模块
+Name: Enable CC MuteModule
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/image.png
+
+Package: com.nan.enableccmutemodule
+Architecture: iphoneos-arm64
+Version: 0.2.0
+Section: System
+Maintainer: zhaonan
+Depends: firmware (>> 11.0)
+Filename: ./debs/iphoneos-arm64/com.nan.enableccmutemodule_0.2.0_iphoneos-arm64.deb
+Size: 1228
+MD5sum: 6b92f1733997d7853ae87d5527f7ad9e
+SHA1: 5edddf70a0d370a20bcf606c3dba10d974a9af44
+SHA256: 94a86459096eb0fd25ebc2d04372efa0687929540d465e9cf747e48426c36677
+SHA512: 222549ae6669e9fe5b0d640ecaa981d4f55bd80099eee0c7cc5f25da691be9d6179946bc57dfa06ec4050ccfb9fffeb7449cf7ce865e5c6b57732355b9ba8188
+Description: 激活原生 iPhone 控制中心静音模块
+Name: Enable CC MuteModule
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/image.png
+
+Package: com.nan.enableccmutemodule
+Architecture: iphoneos-arm64e
+Version: 0.2.0
+Section: System
+Maintainer: zhaonan
+Depends: firmware (>> 11.0)
+Filename: ./debs/iphoneos-arm64e/com.nan.enableccmutemodule_0.2.0_iphoneos-arm64e.deb
+Size: 1240
+MD5sum: d78d016b65eb1a74eb181b5557ad65ed
+SHA1: c7b7808cf4a119955037f8c12d2778d44995edfb
+SHA256: eb545837cedde70927927af7179eba6da80f06603b183c55202514afc6e62fa1
+SHA512: 2eac52f8b6f1dcc7da911c53d8971ac0246f1a780b3303cbbfd8580f0429b576467cd831231a339a256b9d8d356591565fc46220eb6d8dcb4e45d1231ab79456
+Description: 激活原生 iPhone 控制中心静音模块
+Name: Enable CC MuteModule
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.enableccmutemodule/image.png
+
+Package: com.nan.enableknownnetworks
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 11.0)
+Depends: plutil | com.bingner.plutil
+Filename: ./debs/iphoneos-arm/com.nan.enableknownnetworks_0.1.0_iphoneos-arm.deb
+Size: 1180
+MD5sum: e5fe4a026228102451a5a4d0eb8e3893
+SHA1: bb8dd63e7043a59b8b3c0395551baaa61f5c8fb6
+SHA256: 54f91c60b480f65cb515ce895a6de4cf0eb6084aaeebb93b582f52b19424f00d
+SHA512: d8b06ad1aaf58f11f77d90c70ad9fff42308d9f350f5f4571832148056384ef3263bb97ddb65300eb27e06b9c1cde25ab0b93f1c8db3a4be762759319165d8ff
+Description: 启用自带 Wi-Fi 下方的已知网络面板
+Name: Enable known networks
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.enableknownnetworks/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.enableknownnetworks
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 11.0)
+Depends: plutil | com.bingner.plutil
+Filename: ./debs/iphoneos-arm64/com.nan.enableknownnetworks_0.1.0_iphoneos-arm64.deb
+Size: 1188
+MD5sum: a9d9d4df209ba9396e967739f3145d9f
+SHA1: 55b85e41a89f35bd68e36046da9e95170f40b1a9
+SHA256: 1dff22db1cd8288aba337b85cb55057aa332fab620f489ef3bf753053c2c4716
+SHA512: 9f4265ea8fb19d75858173e3272fa0b374b54511b29222916be01b1aee40c35eebb25f096a6fb2081263353a90eade89552aa994472b3375d3ec8f4b6e89b36c
+Description: 启用自带 Wi-Fi 下方的已知网络面板
+Name: Enable known networks
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.enableknownnetworks/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.fh
+Architecture: iphoneos-arm
+Version: 0.2.6
+Section: Terminal_Support
+Maintainer: zhaonan
+Pre-Depends: sed, zip, unzip, tree, uuid, bash
+Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
+Conflicts: com.nan.lecho (<< 0.2.0)
+Filename: ./debs/iphoneos-arm/com.nan.fh_0.2.6_iphoneos-arm.deb
+Size: 4144
+MD5sum: 12e79a71cd324342bb1953d3b2a0e220
+SHA1: 7a246ec778888aa5f90f04370af43a97c0036d9f
+SHA256: 353318494494686a104c7c47875316cc5e897c35c24f5b231fb4002345e4cccc
+SHA512: 3af6feecc519bbff09b650b27eba8f3942b24ce3f4b7153698abcae42c9d647de7ab3898e69b982732e6adf2dbb4c56fa74da95121d8b68a8725074bb197429d
+Description: 一个备份还原字体的小脚本，支持多个备份，支持恢复外部导入的备份
+Name: fh
+Author: zhaonan
+SileoDepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.fh/js.json
+Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
+
+Package: com.nan.filza-script-zip-in-background
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Depends: sed, plutil, uikittools-extra, screen, p7zip
+Filename: ./debs/iphoneos-arm/com.nan.filza-script-zip-in-background_0.1.0_iphoneos-arm.deb
+Size: 1948
+MD5sum: b932a87c702f2b254448b6bb69820fc9
+SHA1: fafb29b1e5be9123a17d60c4b0a0989dac8e3f90
+SHA256: 69aefb2862a9a6016852bb35d17c3abf8a52c6625e4279b896187cf05c8e6560
+SHA512: 330e89efbfc4b7f6f6bbf8da24a0ec8bcca32c9f4336043b3300e0b96937ee2409323bd0413f4cbbc3ab5a9b0919c464c0136b582dab48ba2edc1fa5b0f803a9
+Description: 通过 Filza 脚本启动一个后台压缩进程，可启动后在多任务划掉 Filza 后台而不终止压缩，并在压缩结束后通过通知横幅提醒已结束，使用只需长按文件或文件夹然后点击使用脚本
+Name: FilzaScript Zip in Background
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.filza-script/zip-in-background/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.filza-script-zip-in-background
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Depends: sed, plutil, uikittools-extra, screen, p7zip
+Filename: ./debs/iphoneos-arm64/com.nan.filza-script-zip-in-background_0.1.0_iphoneos-arm64.deb
+Size: 1948
+MD5sum: 5acd7ce349e9cf8517c3adb3133ff76c
+SHA1: 04f6b02ecfe5c7e1335e491a1a29715b0da911b7
+SHA256: d352f48fe263aa32015e55ec8c92807e0f631b23bb4c08fcb27dd6796d96d0c7
+SHA512: f626634606c3365f676e900a729f3ebc5073724cfce878c155633a8036c9baa7f1bf713e71db802d723555a6bc7c691848901476cc7cb838badab5c5d5b23321
+Description: 通过 Filza 脚本启动一个后台压缩进程，可启动后在多任务划掉 Filza 后台而不终止压缩，并在压缩结束后通过通知横幅提醒已结束，使用只需长按文件或文件夹然后点击使用脚本
+Name: FilzaScript Zip in Background
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.filza-script/zip-in-background/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.filza-script-zip-in-background
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Depends: sed, plutil, uikittools-extra, screen, p7zip
+Filename: ./debs/iphoneos-arm64e/com.nan.filza-script-zip-in-background_0.1.0_iphoneos-arm64e.deb
+Size: 1952
+MD5sum: 67f9766326b4d0fb1e97e9c04cbe7732
+SHA1: 3d95df11ae583b3d7dc2f4dc4f43d725793c5705
+SHA256: 485a19ac113f936da017d1072ec2112df8553f43eaabf9e173bfdac2859ed7c0
+SHA512: 6b95bc521a96b1dc0ad6f1e540e433cccfae07a5215f76ab364c47a3876ffd0c66bf16816ea87500923b7537fd5f9f35a7449b8ca6d22d52e5a1214401b0f582
+Description: 通过 Filza 脚本启动一个后台压缩进程，可启动后在多任务划掉 Filza 后台而不终止压缩，并在压缩结束后通过通知横幅提醒已结束，使用只需长按文件或文件夹然后点击使用脚本
+Name: FilzaScript Zip in Background
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.filza-script/zip-in-background/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.ft
+Architecture: iphoneos-arm
+Version: 0.6.0
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: firmware (>=10.3), rsync, diskdev-cmds
+Filename: ./debs/iphoneos-arm/com.nan.ft_0.6.0_iphoneos-arm.deb
+Size: 2132
+MD5sum: 660a4918b5e48e26d31f98334bafbdd1
+SHA1: 153d8a12f9f10d727be8394ca50a61dab3140e71
+SHA256: 3f6e04c1d1a38ed2c1c83139b384828bc40fcc2a3bdc83df80a87ea4fae77821
+SHA512: 7e683123820fb1467e50b49cd82636af9788395cd482ef9ac8055a04bc270d79bb23681cc0a8c478cc7ecf7a28945b8097cd81448af09dbeef2502716c9763b8
+Description: 从设备初始快照中提取字体并恢复的脚本
+Name: ft
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.ft/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.givemedeb
+Architecture: iphoneos-arm
+Version: 0.3.1
+Section: Addons
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk
+Filename: ./debs/iphoneos-arm/com.nan.givemedeb_0.3.1_iphoneos-arm.deb
+Size: 2200
+MD5sum: 95c4624d14b6cbf3479e6e76d876c079
+SHA1: 98dbc3a8baaac27b899f7648b6ab3ffeb8a1b0c3
+SHA256: 7f74d214fccf652cd6e505e40c2873752b90c14deeccdb19ed2a6dc840a19c83
+SHA512: 1b87b9825c682df2d038ac6d79b1325ba0faf06f6ae684d3e065327a6e12dae89987c6f31e7a98ad3bf45ba3885986fc71f990316cf15bf9d3faca278d07bf7f
+Description: 尝试保存 apt 缓存目录下所有 deb
+Name: Give me deb
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.givemedeb/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.givemedeb
+Architecture: iphoneos-arm64
+Version: 0.3.1
+Section: Addons
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk
+Filename: ./debs/iphoneos-arm64/com.nan.givemedeb_0.3.1_iphoneos-arm64.deb
+Size: 2228
+MD5sum: 51f9026ad3ce65d04ee2357fd1314050
+SHA1: 1f4218ef540e258fc86112104dfc66ef74c64618
+SHA256: 441d8e712f6b52318c286ec99702c064135596d4d55bb10caf9b3d6791549423
+SHA512: 20e61415982336f91166907ebb4089da6f8157d4e0d795c48fee871c6509b9b4fdf7666e35fb4b788277bab29901510a596b8979d275384429850578706a9f1a
+Description: 尝试保存 apt 缓存目录下所有 deb
+Name: Give me deb
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.givemedeb/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.givemedeb
+Architecture: iphoneos-arm64e
+Version: 0.3.1
+Section: Addons
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk
+Filename: ./debs/iphoneos-arm64e/com.nan.givemedeb_0.3.1_iphoneos-arm64e.deb
+Size: 2204
+MD5sum: 684cb5792c16b3dc21ad8b7309d14d5a
+SHA1: 9a28368126170ac67d675e6b60bb0332b8fb0d3d
+SHA256: 379534a15d7e99d331a70f48abf199be1e2d95e71939bd2fc17911aa693a577f
+SHA512: 974411570ba4c317883caca7cb576bf519f462336b47d4313cd1d9274f1c9c7fcb5bce31a9269f1a1aa331830bcc3e607fb973c957a4bf3eda4a11b1c7135f23
+Description: 尝试保存 apt 缓存目录下所有 deb
+Name: Give me deb
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.givemedeb/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.givemedebx
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk
+Conflicts: com.nan.givemedeb
+Filename: ./debs/iphoneos-arm/com.nan.givemedebx_0.1.0_iphoneos-arm.deb
+Size: 1332
+MD5sum: 5a0ca05460e906fcd70b3a4a9ea5a338
+SHA1: aa91c9cc6b88f5611b1b59b4664a626d2e48f9a3
+SHA256: 5a34c3f4ea562c00468ddb3e045dce5c89a08ccf0f9e98d9100a622a52719a90
+SHA512: 2630e9cf078ae02aade7d62a741a9ba9b4f582f8bb9702f6f44459d0d9475011596b55a01a16c97fbc8470f71bb569ce65658080efed8300f601046b1efd25c7
+Description: 通过劫持 dpkg 的方式获取每一个途径 dpkg 的 deb
+Name: Give me deb X
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.givemedeb/js_x.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.givemedebx
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk
+Conflicts: com.nan.givemedeb
+Filename: ./debs/iphoneos-arm64/com.nan.givemedebx_0.1.0_iphoneos-arm64.deb
+Size: 1336
+MD5sum: 6f2a0c2e2f543d5197614ac67a53de52
+SHA1: 3b62f2ecff8137580f8daf969bedcb59cb8697e4
+SHA256: 630901d86d9ef010200f7346a802484ba8bbc2701936eb10cb3d8bd402dd768b
+SHA512: 7d18ec8cc5d36ec75636cebd4419eae1715f5a104b2b47007eed7993ea6ebc3caea50adf87ede6e8c7278b72e0dbe5a026c225e4aaea75b4d85b6e3e761f797e
+Description: 通过劫持 dpkg 的方式获取每一个途径 dpkg 的 deb
+Name: Give me deb X
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.givemedeb/js_x.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.givemedebx
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk
+Conflicts: com.nan.givemedeb
+Filename: ./debs/iphoneos-arm64e/com.nan.givemedebx_0.1.0_iphoneos-arm64e.deb
+Size: 1340
+MD5sum: ccffe54b573551330d0a8736fde385f0
+SHA1: fec9432a811e91a7280985eff7d92e25e25a1b51
+SHA256: 11b90fcbbdd995d2d306eab1610dda8581928f2d191c547827b178a4a964fa7f
+SHA512: 68c28e60d63ae49d96a625e11f42549ef5a6b227bbf8914464acc766792160f78acbdfdc104e7f8ac50a1520eb19e337c89d405ca0fc690d3ddf9ba5a37f739e
+Description: 通过劫持 dpkg 的方式获取每一个途径 dpkg 的 deb
+Name: Give me deb X
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.givemedeb/js_x.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.hsaol
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: System
+Maintainer: zhaonan
+Pre-Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
+Depends: firmware (<< 13.0), firmware (<< 11.0) | com.nan.enableccmutemodule
+Filename: ./debs/iphoneos-arm/com.nan.hsaol_0.2.0_iphoneos-arm.deb
+Size: 1484
+MD5sum: eff90ebb8e181f076b380fcc28d90812
+SHA1: 21755eb56994cae27f95791224cb3d5aea2d66ad
+SHA256: a39372633c87fbd38f58c4306f666f2d44cb3b5f8688f0f2850a0e274a42ffa6
+SHA512: 7da58ee2e07b6c448225d64624c010c733d530d52d68eaf75f9cf927f859df9e50b651ff04942d2aea88b73602922f4b86aaa82b94c7a53d6aefb6aa8f8b68c1
+Description: 在 iPhone上应用 iPad 设置，修改侧边开关为锁定屏幕旋转
+Name: Hardware Switch As Orientation Lock
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.hsaol/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.irld
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: coreutils, sed, ncurses-bin, gawk
+Filename: ./debs/iphoneos-arm/com.nan.irld_0.1.2_iphoneos-arm.deb
+Size: 2576
+MD5sum: 9d3676d373a5424a0ef0eb9a83cec473
+SHA1: 409ab93fd05f2c947f92559cbb68bbf02d1163ac
+SHA256: 9aade96e5a72d65ae76163995d9c992348528273214b036e902645b255562a76
+SHA512: 105de36fb1126b5b1148a6e9fa3887124931001707e0e7fbe2b8cb17535ef745e21f22273bebc319f1af624bb6a580c1cc82a1ff72a41a8231ee55e25170ca65
+Description: 修改无根包使其在有根设备上安装
+Name: irld
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.irld/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.issupervised
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Provides: com.ichitaso.spenabler
+Pre-Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
+Depends: firmware (>= 11.0)
+Conflicts: com.ichitaso.spenabler
+Filename: ./debs/iphoneos-arm/com.nan.issupervised_0.1.0_iphoneos-arm.deb
+Size: 1276
+MD5sum: 7a8c7fd67e765248f0a39cf8599628aa
+SHA1: c3b55db2101dfd2e61ca0c830eabe1bf18f4cd51
+SHA256: fcc871d4de1b5fec27fc2c49d4d7f6beb188cc480e996532691af3e7a1b56a75
+SHA512: d812f923ae5c7b5009519b7c6d4d4d330a39728293d6251a8e8bf5978c0398a7336270ad673697fce2a875a0c1096ec37ad0d1b8146f113a28ca40825b2f0124
+Description: 启用监督模式，主要用于配合描述文件，升级到部分无法通过 iTunes 升级的系统
+Name: Is Supervised
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.issupervised/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.libhooker-configurator.zh-hans
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Localization
+Maintainer: zhaonan
+Depends: org.coolstar.libhooker-configurator
+Replaces: org.coolstar.libhooker-configurator
+Filename: ./debs/iphoneos-arm/com.nan.libhooker-configurator.zh-hans_0.1.2_iphoneos-arm.deb
+Size: 1772
+MD5sum: d6195099c30d465016b1f64205e06f86
+SHA1: e166a71e17c8b80f4a619771e33935e4c900206f
+SHA256: 9d1a88dd3d1863ca960f9c003002023949755725862994a606d39dd1dec59bcd
+SHA512: 83fa1293e88e55811515eb40c615dac1be59e47acb836897b5d3e5d68400451a2367d7e04775fbcd38a39d31cc140cbbbd86af1d0703958f0c4748d06ccc59ec
+Description: 为 libhooker configurator 提供简体中文
+Name: zh-Hans for libhooker-configurator
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/org.coolstar.libhooker-configurator/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/org.coolstar.libhooker-configurator/image.png
+
+Package: com.nan.little11.zh-hans
+Architecture: iphoneos-arm
+Version: 0.1.6
+Section: Localization
+Maintainer: zhaonan
+Depends: com.ryannair05.little11
+Replaces: com.ryannair05.little11
+Filename: ./debs/iphoneos-arm/com.nan.little11.zh-hans_0.1.6_iphoneos-arm.deb
+Size: 2872
+MD5sum: 64936a1f545291f58ff21b915ba0556c
+SHA1: b6b584d3c1aaba464eea0255345340f0171d5172
+SHA256: 543966f8b26e3c27a23ae0ea6e2e16fdea107392778c918a35d2cbe8fb01247e
+SHA512: 8cf26cdeb2e1401d705821e0dce57f7a9fd4f0faf62a4e57f49cbd0ce9dc43a358a4162454fcbd797da70070a4d50145db1f2ddf458d9814a38d024a8edbd161
+Description: 为 Little11 提供简体中文
+Name: zh-Hans for Little11
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.ryannair05.little11/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.ryannair05.little11/image.png
+
+Package: com.nan.little12.zh-hans
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Localization
+Maintainer: zhaonan
+Depends: com.ryannair05.little12
+Replaces: com.ryannair05.little12
+Filename: ./debs/iphoneos-arm/com.nan.little12.zh-hans_0.1.1_iphoneos-arm.deb
+Size: 2320
+MD5sum: 13458be557a307d81fbd18138d1ca5a6
+SHA1: c000018a631e9ced20349d1d379d8b476940544f
+SHA256: 045bc83e6a9b57f6ee31746a0c9ce6fccfba5879aabceb3a57b77e42c649c4b2
+SHA512: 2dc04488d1d5d8735314a6bf01b793d70c4e08c88d5e87160cc0a77920828f3c813bb457e2d96f52de72ac4c737abf25ccf8680a9e2616e7a0d2115285299ca9
+Description: 为 Little12 提供简体中文
+Name: zh-Hans for Little12
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.ryannair05.little12/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.ryannair05.little12/image.png
+
+Package: com.nan.miic
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Depends: coreutils
+Filename: ./debs/iphoneos-arm/com.nan.miic_0.1.0_iphoneos-arm.deb
+Size: 1148
+MD5sum: 6317d19fe305f469d80ae37a42f6a289
+SHA1: 6132718c59d890834569014bd15f06e6be3ab718
+SHA256: 097704dfe6f2bfe3696da761cc39cbf3e37c2b0c1f753a9da3b40309621b07af
+SHA512: 2b87c29509a229042c5a84f747045bd04d1e763a8116e47bc4a0c472408ebf44c781329f677a067232801b624ce4e36d78f2c216a815bbd905edc5990e99d959
+Description: 将系统图标图片缓存文件夹指向 /tmp 达到每次重启时清空缓存的目的，可能可以解决异常缓存造成的不好影响？
+Name: Move Icon Image Cache
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.miic/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.miic
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Depends: coreutils
+Filename: ./debs/iphoneos-arm64/com.nan.miic_0.1.0_iphoneos-arm64.deb
+Size: 1152
+MD5sum: be84ff7fb59c1165b9f6c6cb39384105
+SHA1: dc115aca57abe79dcacca29b767a6013a7bbf4f1
+SHA256: 8f152b9288911cdfb2456ee25cc9ed93b4edda604a1cacbcf4ecc94bc1dfbb9f
+SHA512: 3b376c514c6c37f36ae7af573d771ce1675e4dfbba782a7046a1eba75c5b4d2967584607186efd9b533360c7f44378557b2a64bb9826068b6eaf67275e7d5352
+Description: 将系统图标图片缓存文件夹指向 /tmp 达到每次重启时清空缓存的目的，可能可以解决异常缓存造成的不好影响？
+Name: Move Icon Image Cache
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.miic/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.miic
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Depends: coreutils
+Filename: ./debs/iphoneos-arm64e/com.nan.miic_0.1.0_iphoneos-arm64e.deb
+Size: 1152
+MD5sum: e23a394d69f7c9c62095372f4c531d26
+SHA1: bd10a3178f8afed0f255f3310299f3da132a8ac8
+SHA256: 9be01c2244fd5a0486dc982984d8f5cc23564c6e0ff28ff53e7e6aef42b99c7c
+SHA512: 75307b08307c735830ec1ab0a3effdc46501c1bb411c91e84f504a5f2c80a97520e11520a1b92d85ab0658691067d9f7e2542c6d3fecd1a7c9d9ce5e6521adc4
+Description: 将系统图标图片缓存文件夹指向 /tmp 达到每次重启时清空缓存的目的，可能可以解决异常缓存造成的不好影响？
+Name: Move Icon Image Cache
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.miic/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.mjip
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Depends: coreutils, uikittools, launchctl, shell-cmds, findutils, sed, grep, file
+Filename: ./debs/iphoneos-arm64/com.nan.mjip_0.1.0_iphoneos-arm64.deb
+Size: 3400
+MD5sum: e0bf3de240c9933371c20b9578fd21f4
+SHA1: 173c3042701e9946795cd6f4a9c62ef9b4793f8f
+SHA256: 6685d1c298a4c1c738223b47c1da547e77c636fe5ec94aef767f67445014a22d
+SHA512: f61b98a693ec4b14fef011e7dfb25a863290544452fac3f2e6bd818244967406895aaf0e2b8a3404ae0666d2a6736b47efdff3bae796ccc0f94a239cb72eed9c
+Description: 移动越狱图标路径，这会让其越狱后直接出现在桌面上，重启也不会消失（不过白图标）
+Name: Move Jailbreak Icon Path
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.mjip/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.mjip
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Depends: unsupport-roothide
+Filename: ./debs/iphoneos-arm64e/com.nan.mjip_0.1.0_iphoneos-arm64e.deb
+Size: 792
+MD5sum: c26c1912a46ab1034a6300c943f59c18
+SHA1: eaf33e1f1caf48a9d162e37bbae76ba141f53ab2
+SHA256: 41d4fa7aa84904f15fcbd6a93601493efb325386bbaa2fa558aa048e2f934ede
+SHA512: 15f98f53e3935dcc6a728168bc9746e93ac92e27b70b88ed4482ec1314cafc8777613da22703c4e18883e1ff807504aa203f5111a2f86cc201d46a6430e0a8f7
+Description: 不支持 RootHide
+Name: Move Jailbreak Icon Path
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.mobileicons3x
+Architecture: iphoneos-arm
+Version: 0.14.3
+Section: System
+Maintainer: zhaonan
+Filename: ./debs/iphoneos-arm/com.nan.mobileicons3x_0.14.3_iphoneos-arm.deb
+Size: 92736
+MD5sum: cb352e8471a2343861924d630903581d
+SHA1: b63a3effb50fcee67b146f3edf369e4d0ea56f8b
+SHA256: 4f3143f5d711bcbe90346b26217281ac0d80fa60870f95447d8115bd63ddd1bd
+SHA512: 253594946205b85eda42abfb2bcf8c453bf4ff37ed65afa284359d1bb82bfde8a459b46798b429516fec518a7b58327427c1b0b7a5de93d93aa49aae981dd90f
+Description: 为没有 3x 蒙板的设备补全，提取自 8p 14.3，安装后即可卸载。
+Name: MobileIcons3x
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.patchpath
+Architecture: iphoneos-arm
+Version: 0.1.1-b6
+Section: Addons
+Maintainer: zhaonan
+Depends: grep, mobilesubstrate (= 14)
+Filename: ./debs/iphoneos-arm/com.nan.patchpath_0.1.1-b6_iphoneos-arm.deb
+Size: 1484
+MD5sum: fde594eade7874bf84c44bc00070f0f8
+SHA1: b4a0f61e54d1edd46f71b16a8377bf576dcfeb8c
+SHA256: a56837dbf1ecdfbfc16eea1d4f1771d34b13741fefa27a7d7d68b2c2623e9303
+SHA512: b8fdfa7cd1aa38a3bdac7c23bccde32d36dbc1206a81b51c418f107781830975a8df9844586b7b65d13b99644b67db40801cb60dbcccdbd42d26dce02846b20d
+Description: 将插件路径修补到 /var/jb/，这应该会解决 xinna 无法使用 apt 正常卸载插件的问题，不知道干嘛的请不要安装
+Name: patch path(beta)
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.playing.zh-hans
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Localization
+Maintainer: zhaonan
+Depends: dev.hyper.playing
+Replaces: dev.hyper.playing
+Filename: ./debs/iphoneos-arm/com.nan.playing.zh-hans_0.1.0_iphoneos-arm.deb
+Size: 1948
+MD5sum: 2b5c96f4b0c225f4b9b6643ba24005f8
+SHA1: 965068b502eb4274808dc93cdaab5ed40c5a830e
+SHA256: 73841be608f0b17422a99d17d66e2863a931b0a39d0822779d5a4824a5d78e74
+SHA512: 8dc1c18d1a2a9d1d8d01406a23f0f0ae0ca9215d3b5d678389644a95b88169d37af5516316953f82246652cbed8eab611e1ded195c0627cddd2d3d8cd21dc846
+Description: 为 Playing 提供简体中文
+Name: zh-Hans for Playing
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/dev.hyper.playing/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/dev.hyper.playing/image.png
+
+Package: com.nan.pointless
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Filename: ./debs/iphoneos-arm/com.nan.pointless_0.1.0_iphoneos-arm.deb
+Size: 1568
+MD5sum: 95173968ace17b2db60bffdd9b116d8d
+SHA1: 2c7611cde7a7ca792fb466275ff586dc070778fb
+SHA256: 00c2d3eb732ce37d9cbfa264abf587ad2e934431961d2083613dba6ead4e361a
+SHA512: 134280ddb0733dc806bc02aa24a2d7b3da9d5242e66a4d33c32f669eb20adfb8ca4bfe2fc3c6acdf4dc91770e9aaa2a79cf9cb3b62cd7b32a6d3c74bbdc3eb64
+Description: 毫无意义的守护进程，但是能解决我手机闲置时过度发热和闲置时接入电源重启的问题
+Name: Pointless
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.pointless/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.pointless
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Filename: ./debs/iphoneos-arm64/com.nan.pointless_0.1.0_iphoneos-arm64.deb
+Size: 1608
+MD5sum: db3c8202647575c8ee700da040089a85
+SHA1: 7c4e75a2258defc3bdd5f5eb6de03ca4330679a6
+SHA256: db62e329da52ec66169222bc37c2fadb01bd7a184c05e68ad6e341d7c4f0f7b6
+SHA512: 71eb78b0c2f9afed224d487a058574eeff2862474bb1157ed8490ab768dbb78c9862003345e9430cd01c19903a1c1bae26c87d9199533ea713082e3b7e6e1b63
+Description: 毫无意义的守护进程，但是能解决我手机闲置时过度发热和闲置时接入电源重启的问题
+Name: Pointless
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.pointless/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.pointless
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Addons
+Maintainer: zhaonan
+Filename: ./debs/iphoneos-arm64e/com.nan.pointless_0.1.0_iphoneos-arm64e.deb
+Size: 1572
+MD5sum: 5d5bb40d9c6a4c155f33061648e97663
+SHA1: c1daff2f0d77e9e4cf8571ba82ce5ec35990411d
+SHA256: e2acdf46003141d66b40be0b8b1e1a952df3c9bca453672d6a3559f13c26a114
+SHA512: 9fd05b7d47af790bdd39e0d7a793bae55eb9c4128088475a6be83df93047b14112d5761bba80174a3eee743bcfa0bfc69475c3802f5d5cb08a862837f5945e8f
+Description: 毫无意义的守护进程，但是能解决我手机闲置时过度发热和闲置时接入电源重启的问题
+Name: Pointless
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.pointless/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.pulloverpro.zh-hans
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Localization
+Maintainer: zhaonan
+Depends: com.c1d3r.pulloverpro
+Replaces: com.c1d3r.pulloverpro
+Filename: ./debs/iphoneos-arm/com.nan.pulloverpro.zh-hans_0.1.1_iphoneos-arm.deb
+Size: 1932
+MD5sum: 55120c7357c660be152c8ab325f81dd8
+SHA1: 03043bacf5b73ff6044009d24b649566fc355a6f
+SHA256: 5886af31c3e28afd1f00110e6d6004d0db3420dcf0adce5b1347b4ea8f44975c
+SHA512: fe8f6c6bef60a56bf462010cc56a0b020b1dd5c5789fec5e91c82ff1017b291f65cb814756ca6af8a944a3ec028839127f3a3501f483430825db3cfa1c8b21ac
+Description: 为 PullOver Pro 提供简体中文
+Name: zh-Hans for PullOver Pro
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.c1d3r.pulloverpro/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.c1d3r.pulloverpro/image.png
+
+Package: com.nan.raru
+Architecture: iphoneos-arm64
+Version: 0.1.4
+Section: Addons
+Maintainer: zhaonan
+Depends: shell-cmds
+Filename: ./debs/iphoneos-arm64/com.nan.raru_0.1.4_iphoneos-arm64.deb
+Size: 1872
+MD5sum: 05f89dfb2cf627df411ddc141641e258
+SHA1: 9a91451d5fa2fe3f5a797142fa69d77b9f2feb45
+SHA256: b4f8b1a9f41937e98708fdb3d7e54f63dfa4d676b2bd886d034142bd4f218f07
+SHA512: 196e9ff91be78358c7b5ae51ba2bc9554ecb1761d56ad3404ec5cf5f403c030f506f81b46ac8ba591c08f8e702e81d9d52b0a59bd0e2eb030625eca5263cdd21
+Description: 在重启用户空间后注销一次，尝试缓解 iPhone 12 在重启用户空间之后的暗屏
+Name: Respring after reboot userspace
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.raru/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.raru
+Architecture: iphoneos-arm64e
+Version: 0.1.4
+Section: Addons
+Maintainer: zhaonan
+Depends: shell-cmds
+Filename: ./debs/iphoneos-arm64e/com.nan.raru_0.1.4_iphoneos-arm64e.deb
+Size: 1828
+MD5sum: 998a1d8fde9661563e06fcee83859b7c
+SHA1: 2d942dd57afeaae18899790adb97da69fc7a275d
+SHA256: 885849b1511804b5af3f91d64ea71a43c408be9f56596fdb142e80dc26e50286
+SHA512: 9258007d15cd8cd02732b0b4afef0ef0dc10d69369560e6c9951be042cff92b471e0d7a2b34a67950dd7c57cfadf3adf9a7c71c7aadf1f166a847fb349d39c3e
+Description: 在重启用户空间后注销一次，尝试缓解 iPhone 12 在重启用户空间之后的暗屏
+Name: Respring after reboot userspace
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.raru/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.realitytmp
+Architecture: iphoneos-arm64
+Version: 0.3.3-1
+Section: Addons
+Maintainer: zhaonan
+Depends: coreutils, gawk, grep, system-cmds, file-cmds, text-cmds
+Filename: ./debs/iphoneos-arm64/com.nan.realitytmp_0.3.3-1_iphoneos-arm64.deb
+Size: 2512
+MD5sum: 6a1145b7c88f263bd6031a2b9be772c7
+SHA1: 17a790d1c7912860ef19528d99ae0e5c2d361a02
+SHA256: 3a4203f2858ee2c2b6a9cab88d0762df7a689b5b385826abc85eb1387e1d50de
+SHA512: fe90985350d5ae674ce85e36577c615b4cbdaff35ad772d783b236329343a7f5404f6aeb583f80b205fceb85213209e45c498cad2b0a6fcdcbf48f1ab9343fcf
+Description: 将 jb tmp 放在 /tmp 以防止越来越多的缓存垃圾
+Name: Reality tmp
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.realitytmp/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.realitytmp
+Architecture: iphoneos-arm64e
+Version: 0.3.3-1
+Section: Addons
+Maintainer: zhaonan
+Depends: coreutils, gawk, grep, system-cmds, file-cmds, text-cmds
+Filename: ./debs/iphoneos-arm64e/com.nan.realitytmp_0.3.3-1_iphoneos-arm64e.deb
+Size: 2488
+MD5sum: 3f0825d485c592ea43fe648fa198ec32
+SHA1: 6ef10f676c28faa236f8fee0e08e7d1ef3c7b621
+SHA256: 8f128ea18482ca1993520387670541b6fe5dc67fb7b82f348a7cc1c6847da0db
+SHA512: 75c986283890a44d3f549354a58fa79c09ec9920f8c73b94f8a31cbd0cbef192de22d4375c15e8d000f693a6043ea09ff0f0447a9068d067c532d86a46651147
+Description: 将 jb tmp 放在 /tmp 以防止越来越多的缓存垃圾
+Name: Reality tmp
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.realitytmp/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.rebirth
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: coreutils, lsof, gawk
+Filename: ./debs/iphoneos-arm/com.nan.rebirth_0.1.5_iphoneos-arm.deb
+Size: 2156
+MD5sum: 447659d04cffd229fc67042f7876dfc1
+SHA1: 7519c0a8b0434b6f6eccf602d8bdf5a242d5694b
+SHA256: 36df50365178634512a8dca5de4c25b8d4888c59c4dabfdf085636325644cc6f
+SHA512: 9cb3758cb5d3362329bab88a15a24de45e8f598507965e4be8540a8320d4f900babde4e48f8ff508ec4f5c11add01c662150ca5c364a88ef9ed87e52bc58a826
+Description: 生成为转生准备的 deb，只需清除越狱后分享给 Sileo，将会依赖安装此包时本地已安装的插件（需要自己先添加源），创建的文件位于 /var/mobile/Documents/
+Name: Rebirth
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.rebirth/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.rebirth
+Architecture: iphoneos-arm64
+Version: 0.1.5
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: coreutils, lsof, gawk
+Filename: ./debs/iphoneos-arm64/com.nan.rebirth_0.1.5_iphoneos-arm64.deb
+Size: 2156
+MD5sum: c30e04c36a7cb726093c10cbd1750a9f
+SHA1: d62f12dfc76dbfa05aa31a8d08111a2fe5b77668
+SHA256: 97ca853195fb58fcb0072358f1cba1b191a2cda50a5c96cfd416828048d55511
+SHA512: 3dd745452cdc7573245d9dd4acec4409077b85bf90008394914ff77c691cd2759d4db443bd439cc67e31008d03b695e4763fcc9f3e95825a472b91fd3885e5b4
+Description: 生成为转生准备的 deb，只需清除越狱后分享给 Sileo，将会依赖安装此包时本地已安装的插件（需要自己先添加源），创建的文件位于 /var/mobile/Documents/
+Name: Rebirth
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.rebirth/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.rebirth
+Architecture: iphoneos-arm64e
+Version: 0.1.5
+Section: Terminal_Support
+Maintainer: zhaonan
+Depends: coreutils, lsof, gawk
+Filename: ./debs/iphoneos-arm64e/com.nan.rebirth_0.1.5_iphoneos-arm64e.deb
+Size: 2164
+MD5sum: 9dee8024b5dcbf7907fbda1432fff6d4
+SHA1: b4bb9147113f98be8c745d2dc0dd170e91a08aa6
+SHA256: 5af89cee287a6f09bd70d4674635c4e3a5355143a7861f0ccf1237f1b6f1009d
+SHA512: 3a409f17d56ad83b012e9e718a7af4f1ab0a74da07b5c06d1a7a94185aa08572602853b22e6d4be3b412345ab49eb36ff78de950a55c40c61284d337ad1c4814
+Description: 生成为转生准备的 deb，只需清除越狱后分享给 Sileo，将会依赖安装此包时本地已安装的插件（需要自己先添加源），创建的文件位于 /var/mobile/Documents/
+Name: Rebirth
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.rebirth/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.resetfonts
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: System
+Maintainer: zhaonan
+Pre-Depends: com.nan.ft, zsh
+Filename: ./debs/iphoneos-arm/com.nan.resetfonts_0.1.5_iphoneos-arm.deb
+Size: 1244
+MD5sum: 75da408219a00b1a340fda38d09bc493
+SHA1: 4936fafeb9d7d4bae71cf5c425e9862eded9ddff
+SHA256: 46a92db5e7d62a6e0e74b2e77047728b3917e29bce8c3916a9255927acb31d07
+SHA512: b34461fe1712e8b9e1d82d8b78cde0771c2bb6c417954967be2414ab27568fd8862f42e542bf47089bd94f8832c97b6642ded57cc4c4cbd65c3aab23a65e39cb
+Description: 安装卸载都会尝试使用 ft 还原一次字体
+Name: reset fonts
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.resetfonts/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.resetfonts/image.png
+
+Package: com.nan.resetfonts
+Architecture: iphoneos-arm64
+Version: 0.1.5
+Section: System
+Maintainer: zhaonan
+Pre-Depends: com.nan.ft, zsh
+Filename: ./debs/iphoneos-arm64/com.nan.resetfonts_0.1.5_iphoneos-arm64.deb
+Size: 1260
+MD5sum: e4393687fe6b960b9a6a54a468eb602d
+SHA1: 6f648b748e30b1a10aa2127669dbcaad882171f5
+SHA256: 015e2744148f51c703552a657fd924d80a0eea0c7b2c7e10846f0fbdfc2303c7
+SHA512: de0b8d951b61a707004fb0276efd49253741284ccde0865085d5bfe682d9896f631ba64703d9a7e39d03a3b358e9465aa7a537f3d8c6b98fbe176f457d4740d7
+Description: 安装卸载都会尝试使用 ft 还原一次字体
+Name: reset fonts
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.resetfonts/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.resetfonts/image.png
+
+Package: com.nan.sabotageocsp
+Architecture: iphoneos-arm
+Version: 0.3.1
+Section: System
+Maintainer: zhaonan
+Pre-Depends: coreutils, file-cmds, ldid
+Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
+Filename: ./debs/iphoneos-arm/com.nan.sabotageocsp_0.3.1_iphoneos-arm.deb
+Size: 1732
+MD5sum: 15b36040b63dff7c5c4a18c08c4c27d9
+SHA1: 9f3f5346018f29237c3cbce802622105898ab463
+SHA256: 8ef9e9067b07492f0aef1441499c9f66f78ddf584589f8dbb92685daf1ef424d
+SHA512: 10c3478658f0668db4259edb4795801a5980d1348fdd4a81122280ddb93819fe39b0a5534c69b8141973a054205aca2099cb5a4384b6542572f86474b0c312eb
+Description: 破坏系统文件来让使用苹果吊销签名的应用可以正常打开
+Name: Sabotage OCSP
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.sabotageocsp/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.sabotageocsp
+Architecture: iphoneos-arm64
+Version: 0.3.1
+Section: System
+Maintainer: zhaonan
+Pre-Depends: coreutils, file-cmds, ldid
+Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
+Filename: ./debs/iphoneos-arm64/com.nan.sabotageocsp_0.3.1_iphoneos-arm64.deb
+Size: 1736
+MD5sum: 6ad21ee877dfbbcaa30318fddf45ea5a
+SHA1: d62c6e627b9c293eeea44201f319268cd0108144
+SHA256: e9628a5d271519de37b2d8ea12b9ca45aad0a79a4e65a66aae84ecf1ecec11e6
+SHA512: a537ffb5ec58d121519277160a35b87d1f89fda06aa759edd55028a0a3469365b4733caa6e096103639715b1db6cbf0735ad2f236dc88e1a2e7e197a88edd34a
+Description: 破坏系统文件来让使用苹果吊销签名的应用可以正常打开
+Name: Sabotage OCSP
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.sabotageocsp/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.sabotageocsp
+Architecture: iphoneos-arm64e
+Version: 0.3.1
+Section: System
+Maintainer: zhaonan
+Pre-Depends: coreutils, file-cmds, ldid
+Depends: plutil | com.bingner.plutil | com.ericasadun.utilities
+Filename: ./debs/iphoneos-arm64e/com.nan.sabotageocsp_0.3.1_iphoneos-arm64e.deb
+Size: 1736
+MD5sum: 9dcd1365d05e6721ccbdff604d7b38bc
+SHA1: 9d329a6cdcc753f2851ed3a791c14cd7d4864d01
+SHA256: 9bccff932905528c6364a9aaaf8ec28b1cca47a294684bbbde83df7add8abaf9
+SHA512: 84b4149a7fbf815e983e2a10c1fa28958ff1bbc7a6777e2788ea793920d4c254b55aaa8474ecb8bc5f04d595f04cfc81a66bf9eead2ac5fe45098f247f9c405d
+Description: 破坏系统文件来让使用苹果吊销签名的应用可以正常打开
+Name: Sabotage OCSP
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.sabotageocsp/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.sccbav
+Architecture: iphoneos-arm
+Version: 0.1.3
+Section: System
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 11.0)
+Depends: plutil | com.bingner.plutil
+Conflicts: com.nan.ccah
+Filename: ./debs/iphoneos-arm/com.nan.sccbav_0.1.3_iphoneos-arm.deb
+Size: 1440
+MD5sum: 0b38a7238911b57d86dd747d011ff7b4
+SHA1: 83fb230a3b8a55b86e57fc052056248b04ccdae4
+SHA256: 80fb7110adca462520f776b407c97ebfaca566a754a997e3c73334024a618e56
+SHA512: 9925a6106eb541ae0807f1ef0ef5ac8d99d57bdd938459b9cfab7a183f03ff7d86a031eea1cd20990ff901ca1903a996aba410c1195b0fb683a54a0cf9f2dafd
+Description: 将 iOS 控制中心的亮度和音量的高度占用改为 1 格，安装后未激活越狱也生效
+Name: Small CC Brightness and Volume
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.sccbav/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.sentinel.zh-hans
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Localization
+Maintainer: zhaonan
+Depends: com.megadev.sentinel
+Replaces: com.megadev.sentinel
+Filename: ./debs/iphoneos-arm/com.nan.sentinel.zh-hans_0.1.2_iphoneos-arm.deb
+Size: 1536
+MD5sum: a1302f91bc92f7f2ffef18d174cf7834
+SHA1: 278a79f3f8bf24a181cf26ced8285fe1946e94de
+SHA256: ab04461d669f12d151ddeba3651016a1a4caedf55960d208aad8cc4ddebdb6f2
+SHA512: 68078e1e42c7f4feb0c1e8fbf5ac3547e87f6a7738d42cbc8a7bfc30909259d01055858bdd739afc1dddee8597909a969c175dce3a8f7ccf579a7a20ae73bf1a
+Description: 为 Sentinel 提供简体中文
+Name: zh-Hans for Sentinel
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.megadev.sentinel/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.megadev.sentinel/image.png
+
+Package: com.nan.shuffle.zh-hans
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Localization
+Maintainer: zhaonan
+Depends: com.creaturecoding.shuffle
+Replaces: com.creaturecoding.shuffle
+Filename: ./debs/iphoneos-arm/com.nan.shuffle.zh-hans_0.1.0_iphoneos-arm.deb
+Size: 2708
+MD5sum: ad68248504a70efb5fc95f64638b86bd
+SHA1: 1d9ed20f2e143b75b64f5a01dc7f9c5172d1bb3f
+SHA256: 16f4fd0989baa77a7110dc76b4dd519ee51648c786e684b18249eacbc058c61e
+SHA512: 89a24e1771dde0d14dd28987f72a17479f5fec069c16305fc6b6671370fb4ad0d2d915b706445af577cb96d629f7e0fd0b568093e488795b33039fbaee35d938
+Description: 为 Shuffle 提供简体中文
+Name: zh-Hans for Shuffle
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.creaturecoding.shuffle/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.creaturecoding.shuffle/image.png
+
+Package: com.nan.shuffle.zh-hans
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Localization
+Maintainer: zhaonan
+Depends: com.creaturecoding.shuffle
+Replaces: com.creaturecoding.shuffle
+Filename: ./debs/iphoneos-arm64/com.nan.shuffle.zh-hans_0.1.0_iphoneos-arm64.deb
+Size: 2740
+MD5sum: 7b403f8019c9cb5f9b1064e2a84bba29
+SHA1: a7d1a7fea4ba9e8aca78db0a6ec7174756290a19
+SHA256: 4088497b8d27bf3a09ed7ae31ca30424014babb0ca140d2d6dc7f879e760046f
+SHA512: cbc36460ea908880fb104d9259fd84aee05c2e00221c850b24b5585fd099095b2ddf5a2d5cb1b360049a5232858c9929e11565c5a78b0fdd5a54a89762a9144c
+Description: 为 Shuffle 提供简体中文
+Name: zh-Hans for Shuffle
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.creaturecoding.shuffle/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.creaturecoding.shuffle/image.png
+
+Package: com.nan.shuffle.zh-hans
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Localization
+Maintainer: zhaonan
+Depends: com.creaturecoding.shuffle
+Replaces: com.creaturecoding.shuffle
+Filename: ./debs/iphoneos-arm64e/com.nan.shuffle.zh-hans_0.1.0_iphoneos-arm64e.deb
+Size: 2712
+MD5sum: 5b77fe5733f23636f7527d276c65a605
+SHA1: 2bdb222ddd3ff8e58a5e1d285984b1a03d5f38a7
+SHA256: 4726c4e51bd3890368c93a993fec22cfcf36734fcf240d7d6226d1c8ff675287
+SHA512: 4754b4ae02330dbc628376a7ac8ff56d03594db613b6931b043cd157b86d3a5ea9138188f84e5460303f36cd7b8b4ed4ec9a23f52caa26d11979e4dbe28620a4
+Description: 为 Shuffle 提供简体中文
+Name: zh-Hans for Shuffle
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.creaturecoding.shuffle/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.creaturecoding.shuffle/image.png
+
+Package: com.nan.sileo.zh-hans
+Architecture: iphoneos-arm
+Version: 0.4.4
+Section: Localization
+Maintainer: zhaonan
+Depends: org.coolstar.sileo | org.coolstar.sileobeta | org.coolstar.sileonightly
+Replaces: org.coolstar.sileo, org.coolstar.sileobeta, org.coolstar.sileonightly
+Filename: ./debs/iphoneos-arm/com.nan.sileo.zh-hans_0.4.4_iphoneos-arm.deb
+Size: 7992
+MD5sum: 38f653371a10fcf2e003a24d3aaf6acf
+SHA1: 976348fe3432e57143d07fd69ccb598178f19f24
+SHA256: 49782cca027e35a6eb2d472f4b5760e30d38fcd014ebd41ee34fd591acb015f5
+SHA512: 16250e82fb95a6b7e1bba2b65119a6a31ddd0000fc83a2eac6f04657509fb342d1226cb3e9b725370f45834d99b91d125cc58a5261c26eadfdda8f4b8a2381b0
+Description: 为 Sileo 提供简体中文
+Name: zh-Hans for Sileo
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/org.coolstar.sileo/image.png
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/org.coolstar.sileo/js.json
+
+Package: com.nan.sileo.zh-hans
+Architecture: iphoneos-arm64
+Version: 0.4.4
+Section: Localization
+Maintainer: zhaonan
+Depends: org.coolstar.sileo | org.coolstar.sileobeta | org.coolstar.sileonightly
+Replaces: org.coolstar.sileo, org.coolstar.sileobeta, org.coolstar.sileonightly
+Filename: ./debs/iphoneos-arm64/com.nan.sileo.zh-hans_0.4.4_iphoneos-arm64.deb
+Size: 8012
+MD5sum: d8bd6ad8f6a8c9854e37848f8302baa4
+SHA1: 4cdd33a4398ba14cda3a16e887016acd21c4c071
+SHA256: 28becb14f731aa1e7875ce659eb470758157ae1eec694f0f5469f41636be2bc1
+SHA512: c213f050146eec858242ccee1c7bf5d31af7b647a08d4011a739fc5126407208a2f09495b981675fa380c4839641566072fe66bfd09f34ed2c6a17eab302d150
+Description: 为 Sileo 提供简体中文
+Name: zh-Hans for Sileo
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/org.coolstar.sileo/image.png
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/org.coolstar.sileo/js.json
+
+Package: com.nan.sileo.zh-hans
+Architecture: iphoneos-arm64e
+Version: 0.4.4
+Section: Localization
+Maintainer: zhaonan
+Depends: org.coolstar.sileo | org.coolstar.sileobeta | org.coolstar.sileonightly
+Replaces: org.coolstar.sileo, org.coolstar.sileobeta, org.coolstar.sileonightly
+Filename: ./debs/iphoneos-arm64e/com.nan.sileo.zh-hans_0.4.4_iphoneos-arm64e.deb
+Size: 7992
+MD5sum: 6cda7fa431f6e365246db713cee381f2
+SHA1: 31e52d889670c157d38e14696e7a469faecb8ea1
+SHA256: d47c594075a3ff4f94dfbb4fb955a04aba2ea58db61ca55cdc1437f29f241701
+SHA512: fb94bd6e736c5edf8aa578e05f1f9fa63ade804e5d3682b83b17d2b859e612c5eb2301abaa42a51ded05632694e6c4c1b0d3d8af8ef5e1111f0847fd5513f392
+Description: 为 Sileo 提供简体中文
+Name: zh-Hans for Sileo
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/org.coolstar.sileo/image.png
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/org.coolstar.sileo/js.json
+
+Package: com.nan.smallccairplay
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 11.0)
+Depends: plutil | com.bingner.plutil
+Filename: ./debs/iphoneos-arm/com.nan.smallccairplay_0.1.0_iphoneos-arm.deb
+Size: 1204
+MD5sum: 976f621e6e0b7692d52d95356f96f752
+SHA1: 791525b694616b04cfe7718a87a18d0fadf43cd0
+SHA256: 28163f535f7bbf850e73728cbc2317c25cc5c2689a93870d115a62b4df90de1e
+SHA512: f94957d03f460e2ae5fbeb2f36fef2b68deab04e0b46c1b0cfe242674deb3ad9b7e610370471011e0aa5d85304909b8c27fd9096de640600f26efc2a9e2c4a7d
+Description: 缩小控制中心的 AirPlay 模块，安装后未激活越狱也生效
+Name: Small CC AirPlay
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.smallccairplay/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_fix.png
+
+Package: com.nan.snap
+Architecture: iphoneos-arm
+Version: 0.3.5
+Section: Terminal_Support
+Maintainer: zhaonan
+Pre-Depends: firmware (>= 10.3), sed, shell-cmds, diskdev-cmds | firmware-sbin
+Depends: com.nan.apfs-snapshot | snaputil | com.bingner.snappy
+Filename: ./debs/iphoneos-arm/com.nan.snap_0.3.5_iphoneos-arm.deb
+Size: 3540
+MD5sum: 671ce342adf96202df5b0b64eb81be20
+SHA1: aae1a8b3225cfcdc67ce0ed397184373cc26f9f8
+SHA256: 4cf16decec3076ba5183436cf97d635ad4ea1ffa3661256f18d3246b1be4a688
+SHA512: 6be617fd765244d70e7afbd23370e24c34ee13cd7cef27577cc1c8507ccbfeb53bf5c4d1abbf315bc4426d938d470b53fc5b3019f1c46150a1427c5003bb7da4
+Description: 更便捷的快照管理
+Name: snap
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.snap/js.json
+Icon: https://invalidunit.github.io/sileodepiction/default/image_terminal.png
+
+Package: com.nan.snapper3.zh-hans
+Architecture: iphoneos-arm
+Version: 0.1.2
+Section: Localization
+Maintainer: zhaonan
+Depends: com.jontelang.snapper3
+Replaces: com.jontelang.snapper3
+Filename: ./debs/iphoneos-arm/com.nan.snapper3.zh-hans_0.1.2_iphoneos-arm.deb
+Size: 5548
+MD5sum: b81bd2eea95cb52ddd699e7547481f21
+SHA1: 327ba6ada47c8ba50145e46d366eee68eaeae2ea
+SHA256: 8f1913137e1e46b967f3f545bac8e1531a0aa96adde3a26628eeec6051c0e5b0
+SHA512: cfeff5181e90c248d2f3434ba6558501bd64b67f5cad5e6790904fb9d3831aa37688c55d38d4b47b4f540b58367595bc4e62b1952cd53dde55868d464d10008f
+Description: 为 Snapper 3 提供简体中文
+Name: zh-Hans for Snapper 3
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.jontelang.snapper3/image.png
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.jontelang.snapper3/js.json
+
+Package: com.nan.snapper3.zh-hans
+Architecture: iphoneos-arm64
+Version: 0.1.2
+Section: Localization
+Maintainer: zhaonan
+Depends: com.jontelang.snapper3
+Replaces: com.jontelang.snapper3
+Filename: ./debs/iphoneos-arm64/com.nan.snapper3.zh-hans_0.1.2_iphoneos-arm64.deb
+Size: 5564
+MD5sum: 7d97c0d150ee55c5127b79833f102dd3
+SHA1: 876bd30c0df615396f8052e601a86d681a4819a9
+SHA256: f7a3846ae9d8ab617c9869b3c0eba821163bc62407538f87a7283b1efd09ee82
+SHA512: 3529e449a4ac77cc9c2239774c8e152af4ba970d011c34cc186aa8dfa7e29323f7b1518dd306a862596442a5d50a55d468d090cab2bfe034a236116f0651bc77
+Description: 为 Snapper 3 提供简体中文
+Name: zh-Hans for Snapper 3
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.jontelang.snapper3/image.png
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.jontelang.snapper3/js.json
+
+Package: com.nan.snapper3.zh-hans
+Architecture: iphoneos-arm64e
+Version: 0.1.2
+Section: Localization
+Maintainer: zhaonan
+Depends: com.jontelang.snapper3
+Replaces: com.jontelang.snapper3
+Filename: ./debs/iphoneos-arm64e/com.nan.snapper3.zh-hans_0.1.2_iphoneos-arm64e.deb
+Size: 5552
+MD5sum: 42cd0fea06573f9cd39fe6e8e9dc7504
+SHA1: a03aada31c616722164fbf03432ea7b0568e3a3a
+SHA256: bfc3d1e275e95d03c5c01859629b2a7de6189ae901e3ba96a3e4dd0e3604dba1
+SHA512: 03db3b528e3d5ee04f24a5821a308042eb314ffbc3b896a259d29ed14b87ad9d49561d8ee67aa1a739bc43bb1551805b8529d4dda0a1d8e9a4160b292c9b7633
+Description: 为 Snapper 3 提供简体中文
+Name: zh-Hans for Snapper 3
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.jontelang.snapper3/image.png
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.jontelang.snapper3/js.json
+
+Package: com.nan.souvenir.zh-hans
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Localization
+Maintainer: zhaonan
+Depends: com.eliofeghali.souvenir
+Replaces: com.eliofeghali.souvenir
+Filename: ./debs/iphoneos-arm/com.nan.souvenir.zh-hans_0.2.0_iphoneos-arm.deb
+Size: 3312
+MD5sum: 60f5f1e82384aa4a66fb7e41e3750d8f
+SHA1: 33664407731ad5cb993a67d1c73cbbd07d4031ef
+SHA256: 4fbe7bcfe056b77acb39eb86092fc167e4f22be0f7dac0afecfed81fd3d00c1a
+SHA512: 4b8bee68a84df4adda228958b316bc65eb2e351395f2c9b3c5da18ace4e5e954909b45cae05a75d3cc6cd66500e69a4551ea9c035d48ed2954123777ea93e236
+Description: 为 Souvenir 提供简体中文
+Name: zh-Hans for Souvenir
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.eliofeghali.souvenir/image.png
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.eliofeghali.souvenir/js.json
+
+Package: com.nan.souvenir.zh-hans
+Architecture: iphoneos-arm64
+Version: 0.2.0
+Section: Localization
+Maintainer: zhaonan
+Depends: com.eliofeghali.souvenir
+Replaces: com.eliofeghali.souvenir
+Filename: ./debs/iphoneos-arm64/com.nan.souvenir.zh-hans_0.2.0_iphoneos-arm64.deb
+Size: 3356
+MD5sum: 66ed08acda99e638cb1e62dd65a71c0f
+SHA1: 10b5dce773474ae0b7bb96c3be3ed06efaf24cf1
+SHA256: d851301cd41f0ec5d8c84a8e9e0eacab58fafae35705e0ea77a6e68e9f9f17e2
+SHA512: e064a01fbe569aedfc1ddea5ea6bdeb9522bb5251b3334e0cb254d5eb37bc53207fee10ca4a5fdd8e7717e61c02322226a7c099d8d4d07f5ebf446e95fcf84af
+Description: 为 Souvenir 提供简体中文
+Name: zh-Hans for Souvenir
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.eliofeghali.souvenir/image.png
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.eliofeghali.souvenir/js.json
+
+Package: com.nan.souvenir.zh-hans
+Architecture: iphoneos-arm64e
+Version: 0.2.0
+Section: Localization
+Maintainer: zhaonan
+Depends: com.eliofeghali.souvenir
+Replaces: com.eliofeghali.souvenir
+Filename: ./debs/iphoneos-arm64e/com.nan.souvenir.zh-hans_0.2.0_iphoneos-arm64e.deb
+Size: 3324
+MD5sum: 41a33694f8fc6d9164fde7991515f6cd
+SHA1: bcca34d1564ad6a7b26f84c61dbf2059350b3c48
+SHA256: 2c1a1634438cb61fbff41a8691f62182140d70602c7f5d0b584b20197e2a85e5
+SHA512: 280ae6f1b8c2c10cc06c5896639ccc7b7dc3de6db911c30cff26961b06ce947e36196f8168231ffa28328aebd551aa76f8daad0adb5fb45edebf1768f67d7ace
+Description: 为 Souvenir 提供简体中文
+Name: zh-Hans for Souvenir
+Author: zhaonan
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.eliofeghali.souvenir/image.png
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.zh-hans/com.eliofeghali.souvenir/js.json
+
+Package: com.nan.sshd2
+Architecture: iphoneos-arm
+Version: 0.2.1
+Section: Addons
+Maintainer: zhaonan
+Pre-Depends: sed
+Depends: openssh-server | openssh
+Filename: ./debs/iphoneos-arm/com.nan.sshd2_0.2.1_iphoneos-arm.deb
+Size: 1340
+MD5sum: 8d85bfb1418573a016f1a4bc0ea1a3c4
+SHA1: 12ebf5623f6b8f732fa17841f5cce10c4032e38c
+SHA256: 21b2f19d9755140904949ab31ba1c5c4cb344b42d402a9bd3920c94c21810bcb
+SHA512: 9c1a4ab6121604cb927d4e176a64b0b4b65b2ca0ab993472b58e744b521ba0eba1a3bda90360b5133b85e090e386b04c2ea7b6ecd851789d9a6a33d6e980e966
+Description: 无聊的补丁，将 sshd 修改为 sshd2 的同时不影响 openssh 正常使用
+Name: sshd2
+Author: zhaonan
+Icon: https://invalidunit.github.io/repo/Depictions/Default/image_fix.png
+SileoDepiction: https://invalidunit.github.io/repo/Depictions/com.nan.sshd2/js.json
+
+Package: com.nan.tit
+Architecture: iphoneos-arm
+Version: 0.2.4
+Section: Applications
+Maintainer: zhaonan
+Pre-Depends: plutil, taurine-permanent, uikittools (>= 2.1.6-1)
+Depends: firmware (>> 13.0), firmware (<< 15.0)
+Conflicts: com.nan.titu
+Filename: ./debs/iphoneos-arm/com.nan.tit_0.2.4_iphoneos-arm.deb
+Size: 1892
+MD5sum: d7500b479a983ca408a578564d7d339f
+SHA1: d865c210adf3d33ed86f29ec83f5f6955e0beb9d
+SHA256: 1f9105e2085a960e1e527ec0a4548f3cc9c7b47f15b4938d0a1cb0f5fe644d96
+SHA512: a5961ca2eb6b4c54c71f470097cc350b05c31b9f6b504f2c2c97039ae1075f5a25f3f1c229baf2fac6ca9749ea381a4a4574ee8eaea1436cb8609a01f9d1be0e
+Description: Tips 的外壳，Taurine 的内在
+Name: Taurine in Tips
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.tit/js.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.tit/image.png
+
+Package: com.nan.tito
+Architecture: iphoneos-arm
+Version: 0.2.4
+Section: Applications
+Maintainer: zhaonan
+Pre-Depends: plutil, taurine-permanent, uikittools (>= 2.1.6-1)
+Depends: firmware (>> 13.0), firmware (<< 15.0)
+Conflicts: com.nan.titu, com.nan.tit
+Filename: ./debs/iphoneos-arm/com.nan.tito_0.2.4_iphoneos-arm.deb
+Size: 1896
+MD5sum: b5c0cfd78c1cbb26923878821a8a0d2e
+SHA1: 9d69f893018a82e10308968711c8d3c67f47837f
+SHA256: 78c3513182d63897cba9929c09c42b71095e107c99060ffb3540a694bdf44ffc
+SHA512: ee86ef1a1e8135c2a87ccbf5da6bcc68ae8c028b5fa609874cfdb135cfdac729e9b6cbbd39465b9a3700450eb4a7d55aa3b84bb2c2cd68f77609e344f4e16204
+Description: Tips 的外壳，Taurine 的内在
+Name: Taurine in Tips (orig icon)
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.tit/js_o.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.tit/image.png
+
+Package: com.nan.titu
+Architecture: iphoneos-arm
+Version: 0.2.4
+Section: Applications
+Maintainer: zhaonan
+Depends: firmware (>> 13.0), firmware (<< 15.0), bash
+Conflicts: taurine-permanent, com.nan.tit
+Replaces: uikittools
+Filename: ./debs/iphoneos-arm/com.nan.titu_0.2.4_iphoneos-arm.deb
+Size: 30206324
+MD5sum: df9d2268c4a3a4dd78726550ddc99b75
+SHA1: 42e9ef0f950f7aa282269d5ece19ebdda85faa1f
+SHA256: 7c7566e7ebcb85ea4933a83e1bd526875707c1b894d2b0d168a5e3eca3c4771a
+SHA512: 88fe055adfc5a752d50370387dbd8a050252411917f94e48112a80e0050234f33196ea6045642a1f406371cae8658f055c9f358ccffe86f5b2d04d0ef01554ac
+Description: Tips 的外壳，Taurine 的内在
+Name: Taurine in Tips for unc0ver
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.tit/js_u.json
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.tit/image.png
+
