@@ -1,0 +1,19 @@
+{
+ "class": "FeaturedBannersView",
+ "itemSize": "{263, 148}",
+ "itemCornerRadius": 10,
+ "banners": [
+  {
+   "url": "https://invalidunit.github.io/sileodepiction/default/top_0.png",
+   "title": "Custom SSH Port",
+   "package": "com.nan.csp",
+   "hideShadow": false
+  },
+  {
+   "url": "https://invalidunit.github.io/sileodepiction/default/top_0.png",
+   "title": "dpkg-fill",
+   "package": "com.nan.dpkg-fill",
+   "hideShadow": false
+  }
+ ]
+}
